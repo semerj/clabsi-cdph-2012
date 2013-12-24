@@ -1,0 +1,1350 @@
+hosp,cases,lineDays,sir,ciLow,ciHigh,area
+STATE OF CALIFORNIA POOLED DATA,1,889,1.12,,,neonatal step-down care
+ALAMEDA COUNTY MED CTR,0,48,,,,neonatal step-down care
+"ALAMEDA COUNTY MED CTR, OAKLAND",,,,,,neonatal step-down care
+"ALAMEDA COUNTY MED CTR-FAIRMONT CAMPUS, SAN LEANDRO",,,,,,neonatal step-down care
+EL CENTRO REGIONAL MED CTR,0,5,,,,neonatal step-down care
+"KAISER FOUNDATION HOSP, FRESNO",0,6,,,,neonatal step-down care
+"KAISER FOUNDATION HOSP, SANTA ROSA",0,2,,,,neonatal step-down care
+KAISER FOUNDATION HOSP-SOUTH SACRAMENTO,0,1,,,,neonatal step-down care
+KAISER FOUNDATION HOSPS,0,32,,,,neonatal step-down care
+"KAISER FOUNDATION HOSP, MODESTO",,,,,,neonatal step-down care
+"KAISER FOUNDATION HOSP, MANTECA",,,,,,neonatal step-down care
+"LUCILE SALTER PACKARD CHILDREN'S HOSP AT STANFORD, PALO ALTO",0,210,0.00,0.00,14.27,neonatal step-down care
+"MEMORIAL MED CTR, MODESTO",0,20,,,,neonatal step-down care
+METHODIST HOSP OF SACRAMENTO,1,100,10.00,0.25,55.72,neonatal step-down care
+MILLS-PENINSULA HEALTH SERVICES,0,3,,,,neonatal step-down care
+"MILLS HEALTH CTR, SAN MATEO",,,,,,neonatal step-down care
+"MILLS-PENINSULA MED CTR, BURLINGAME",,,,,,neonatal step-down care
+"POMERADO HOSP, POWAY",0,25,,,,neonatal step-down care
+SCRIPPS HEALTH,0,23,,,,neonatal step-down care
+"SCRIPPS MERCY HOSP, SAN DIEGO",,,,,,neonatal step-down care
+SCRIPPS MERCY HOSP CHULA VISTA,,,,,,neonatal step-down care
+SHARP CHULA VISTA MED CTR,0,116,0.00,0.00,25.83,neonatal step-down care
+"SUTTER DELTA MED CTR, ANTIOCH",0,45,,,,neonatal step-down care
+"SUTTER MED CTR, CASTRO VALLEY",0,7,,,,neonatal step-down care
+"EDEN MED CTR, CASTRO VALLEY",,,,,,neonatal step-down care
+SAN LEANDRO HOSP,,,,,,neonatal step-down care
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",0,205,0.00,0.00,14.61,neonatal step-down care
+WATSONVILLE COMMUNITY HOSP,0,41,,,,neonatal step-down care
+STATE OF CALIFORNIA POOLED DATA,0,392,0.00,,,pediatric step-down care
+"LAC/HARBOR-UCLA MED CTR, TORRANCE",0,162,0.00,0.00,18.49,pediatric step-down care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",0,230,0.00,0.00,13.02,pediatric step-down care
+"UCSF MED CTR, SAN FRANCISCO",,,,,,pediatric step-down care
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,pediatric step-down care
+STATE OF CALIFORNIA POOLED DATA,361,424342,0.85,,,general medical care
+"AHMC ANAHEIM REGIONAL MED CTR, ANAHEIM",1,2649,0.38,0.01,2.10,general medical care
+ALAMEDA HOSP,0,138,0.00,0.00,21.71,general medical care
+ALHAMBRA HOSP MED CTR,0,679,0.00,0.00,4.41,general medical care
+"ALVARADO HOSP, LLC",2,1615,1.24,0.15,4.47,general medical care
+"ALVARADO HOSP MED CTR, CAMPUS #1, SAN DIEGO",,,,,,general medical care
+"ALVARADO HOSP MED CTR, CAMPUS #2, SAN DIEGO",,,,,,general medical care
+"ARROWHEAD RGN MED CTR, COLTON",14,3916,3.58,1.95,6.00,general medical care
+BAKERSFIELD HEART HOSP,0,2684,0.00,0.00,1.12,general medical care
+BAKERSFIELD MEMORIAL HOSP,5,5202,0.96,0.31,2.24,general medical care
+"BROTMAN MED CTR, CULVER CITY",1,1399,0.71,0.02,3.98,general medical care
+"CALIFORNIA HOSP MED CTR, LOS ANGELES",4,1114,3.59,0.98,9.19,general medical care
+"CALIFORNIA MED FACILITY, VACAVILLE",0,382,0.00,0.00,7.84,general medical care
+"CEDARS-SINAI MED CTR, LOS ANGELES",10,16374,0.61,0.29,1.12,general medical care
+"CENTINELA HOSP MED CTR, INGLEWOOD",2,3040,0.66,0.08,2.38,general medical care
+"CHINO VALLEY MED CTR, CHINO",0,387,0.00,0.00,7.74,general medical care
+"CITRUS VALLEY MED CTR, INC.",6,3737,1.61,0.59,3.49,general medical care
+"CITRUS VALLEY MED CTR, IC , COVINA",,,,,,general medical care
+"CITRUS VALLEY MED CTR, QV, WEST COVINA",,,,,,general medical care
+CLOVIS COMMUNITY MED CTR,3,1540,1.95,0.40,5.69,general medical care
+"COAST PLAZA HOSP, NORWALK",0,261,0.00,0.00,11.48,general medical care
+COMMUNITY AND MISSION HOSP OF HUNTINGTON PARK,0,89,0.00,0.00,33.66,general medical care
+"COMMUNITY HOSP OF THE MONTEREY PENINSULA, MONTEREY",2,5963,0.34,0.04,1.21,general medical care
+COMMUNITY HOSP OF SAN BERNARDINO,1,1003,1.00,0.03,5.55,general medical care
+"COMMUNITY REGIONAL MED CTR, FRESNO",6,5975,1.00,0.37,2.19,general medical care
+"CONTRA COSTA REGIONAL MED CTR, MARTINEZ",0,1338,0.00,0.00,2.24,general medical care
+COUNTY OF VENTURA,1,1484,0.67,0.02,3.75,general medical care
+VENTURA COUNTY MED CTR,,,,,,general medical care
+"VENTURA COUNTY MED CTR, SANTA PAULA HOSP",,,,,,general medical care
+"DESERT REGIONAL MED CTR, PALM SPRINGS",1,1361,0.73,0.02,4.09,general medical care
+DIGNITY HEALTH,0,1605,0.00,0.00,1.87,general medical care
+"DOMINICAN HOSP CAMPUS #1, SANTA CRUZ",,,,,,general medical care
+"DOMINICAN HOSP CAMPUS #2, SANTA CRUZ",,,,,,general medical care
+"DOCTORS MED CTR, MODESTO",8,9619,0.83,0.36,1.64,general medical care
+"DOCTORS MED CTR, SAN PABLO",1,1162,0.86,0.02,4.79,general medical care
+DOWNEY REGIONAL MED CTR,1,504,1.98,0.05,11.05,general medical care
+"EAST VALLEY HOSP MED CTR, GLENDORA",0,57,0.00,0.00,52.56,general medical care
+"EASTERN PLUMAS HEALTH CARE, PORTOLA",0,33,,,,general medical care
+"EISENHOWER MED CTR, RANCHO MIRAGE",4,9123,0.44,0.12,1.12,general medical care
+EL CAMINO HOSP,,,,,,general medical care
+"EL CAMINO HOSP, MOUNTAIN VIEW",0,6636,0.00,0.00,0.45,general medical care
+"EMANUEL MED CTR INC, TURLOCK",2,2532,0.79,0.10,2.85,general medical care
+ENLOE MED CTR,0,6191,0.00,0.00,0.48,general medical care
+"ENLOE MED CTR-COHASSET, CHICO",,,,,,general medical care
+"ENLOE MED CTR-ESPLANADE, CHICO",,,,,,general medical care
+"ENLOE REHABILITATION CTR, CHICO",,,,,,general medical care
+"FAIRVIEW DEVELOPMENTAL CTR, COSTA MESA",0,7,,,,general medical care
+"FEATHER RIVER HOSP, PARADISE",0,1009,0.00,0.00,2.97,general medical care
+"FOOTHILL PRESBYTERIAN HSP-JOHNSTON MEMORIAL, GLENDORA",0,466,0.00,0.00,6.43,general medical care
+FOUNTAIN VALLEY REGIONAL HOSP & MED CTR,2,6509,0.31,0.04,1.11,general medical care
+FOUNTAIN VALLEY REGIONAL HOSP & MED CTR,,,,,,general medical care
+FREMONT-RIDEOUT HEALTH GROUP,0,785,0.00,0.00,3.82,general medical care
+"FREMONT MED CTR, YUBA CITY",,,,,,general medical care
+"RIDEOUT MEMORIAL HOSP, MARYSVILLE",,,,,,general medical care
+"FRENCH HOSP MED CTR, SAN LUIS OBISPO",1,849,1.18,0.03,6.56,general medical care
+FRESNO HEART AND SURGICAL HOSP,1,1427,0.70,0.02,3.90,general medical care
+GARDEN GROVE HOSP AND MED CTR,1,531,1.88,0.05,10.49,general medical care
+"GARFIELD MED CTR, MONTEREY PARK",0,861,0.00,0.00,3.48,general medical care
+GLENDALE ADVENTIST MED CTR,7,7277,0.96,0.39,1.98,general medical care
+GLENDALE MEMORIAL HOSP AND HEALTH CTR,0,2874,0.00,0.00,1.04,general medical care
+"GOOD SAMARITAN HOSP, LOS ANGELES",2,3283,0.61,0.07,2.20,general medical care
+"GOOD SAMARITAN HOSP, LP",2,3070,0.65,0.08,2.35,general medical care
+"MISSION OAKS HOSP, LOS GATOS",,,,,,general medical care
+"GOOD SAMARITAN HOSP, SAN JOSE",,,,,,general medical care
+"GROSSMONT HOSP, LA MESA",4,6282,0.64,0.17,1.63,general medical care
+HEMET VALLEY MED CTR,0,1040,0.00,0.00,2.88,general medical care
+"HOAG MEMORIAL HOSP PRESBYTERIAN, INC",2,1180,1.69,0.21,6.12,general medical care
+"HOAG HOSPITAL, IRVINE",,,,,,general medical care
+"HOAG MEMORIAL HOSP PRESBYTERIAN, NEWPORT BEACH",,,,,,general medical care
+"HOLLYWOOD PRESBYTERIAN MED CTR, LOS ANGELES",1,1448,0.69,0.02,3.85,general medical care
+HOSPITAL COMMITTEE AREA LIVERMORE PLEASANTON,1,1659,0.60,0.02,3.36,general medical care
+"VALLEYCARE MEDICAL CENTER, PLEASANTON",,,,,,general medical care
+"VALLEY MEMORIAL HOSPITAL, LIVERMORE",,,,,,general medical care
+HUNTINGTON BEACH HOSP,1,669,1.49,0.04,8.33,general medical care
+"HUNTINGTON MEMORIAL HOSP, PASADENA",2,4524,0.44,0.05,1.60,general medical care
+"JOHN C. FREMONT HEALTHCARE DISTRICT, MARIPOSA",1,40,,,,general medical care
+"JOHN F. KENNEDY MEMORIAL HOSP, INDIO",2,2477,0.81,0.10,2.92,general medical care
+"JOHN MUIR MED CTR, CONCORD",5,5015,1.00,0.32,2.33,general medical care
+"JOHN MUIR MED CTR, WALNUT CREEK",2,5064,0.39,0.05,1.43,general medical care
+"KAISER FOUNDATION HOSP, ANTIOCH",2,878,2.28,0.28,8.23,general medical care
+"KAISER FOUNDATION HOSP, FRESNO",0,710,0.00,0.00,4.22,general medical care
+"KAISER FOUNDATION HOSP, LOS ANGELES",5,5042,0.99,0.32,2.31,general medical care
+"KAISER FOUNDATION HOSP, PANORAMA CITY",0,464,0.00,0.00,6.46,general medical care
+"KAISER FOUNDATION HOSP, SAN DIEGO",7,3948,1.77,0.71,3.65,general medical care
+"KAISER FOUNDATION HOSP, SAN FRANCISCO",0,158,0.00,0.00,18.96,general medical care
+KAISER FOUNDATION HOSP-SAN JOSE,2,2810,0.71,0.09,2.57,general medical care
+KAISER FOUNDATION HOSP-SANTA CLARA,3,2386,1.26,0.26,3.67,general medical care
+"KAISER FOUNDATION HOSP SOUTH BAY, HARBOR CITY",1,859,1.16,0.03,6.49,general medical care
+"KAISER FOUNDATION HOSP & REHAB. CTR, VALLEJO",1,2088,0.48,0.01,2.67,general medical care
+"KAISER FOUNDATION HOSP-WEST LA, LOS ANGELES",2,3950,0.51,0.06,1.83,general medical care
+"KAISER FOUNDATION HOSP, WOODLAND HILLS",4,2141,1.87,0.51,4.78,general medical care
+KAISER FOUNDATION HOSPS,0,776,0.00,0.00,3.86,general medical care
+KAISER FOUNDATION HOSP-ANAHEIM MEDICAL CENTER,,,,,,general medical care
+KAISER FOUNDATION HOSP-LAKEVIEW MEDICAL CENTER,,,,,,general medical care
+KAISER FOUNDATION HOSPS,,,,,,general medical care
+"KAISER FOUNDATION HOSP, IRVINE",0,523,0.00,0.00,5.73,general medical care
+"KAISER FOUNDATION HOSP, FONTANA",0,4815,0.00,0.00,0.62,general medical care
+KAISER FOUNDATION HOSPS,1,1374,0.73,0.02,4.06,general medical care
+"KAISER FOUNDATION HOSP, OAKLAND/RICHMOND",,,,,,general medical care
+"KAISER FOUNDATION HOSP, RICHMOND CAMPUS",,,,,,general medical care
+"KAWEAH DELTA MED CTR, VISALIA",1,1488,0.67,0.02,3.74,general medical care
+LA PALMA INTERCOMMUNITY HOSP,2,1197,1.67,0.20,6.04,general medical care
+"LAC+USC MED CTR, LOS ANGELES",0,138,0.00,0.00,21.71,general medical care
+"LAC/HARBOR-UCLA MED CTR, TORRANCE",2,2434,0.82,0.10,2.97,general medical care
+"LAC/RANCHO LOS AMIGOS NATIONAL REHAB CTR, DOWNEY",0,233,0.00,0.00,12.86,general medical care
+"LAGUNA HONDA HOSP & REHAB CTR, SAN FRANCISCO",1,242,4.13,0.10,23.02,general medical care
+LAKEWOOD REGIONAL MED CTR,3,1694,1.77,0.37,5.18,general medical care
+"LANTERMAN DEVELOPMENTAL CTR, POMONA",0,17,,,,general medical care
+"LODI MEMORIAL HOSP ASSOCIATION, INC.",0,522,0.00,0.00,5.74,general medical care
+LODI MEMORIAL HOSP 1RH,,,,,,general medical care
+LODI MEMORIAL HOSP-WEST,,,,,,general medical care
+LOMA LINDA UNIVERSITY MED CTR,18,5684,3.17,1.88,5.00,general medical care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,general medical care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,general medical care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,general medical care
+LOMA LINDA UNIVERSITY MEDICAL CENTER - MURRIETA,0,1009,0.00,0.00,2.97,general medical care
+"LONG BEACH MEMORIAL MED CTR, LONG BEACH",2,7570,0.26,0.03,0.95,general medical care
+LOS ALAMITOS MED CTR,3,2856,1.05,0.22,3.07,general medical care
+"LOS ANGELES CO OLIVE VIEW-UCLA MED CTR, SYLMAR",0,1190,0.00,0.00,2.52,general medical care
+LOS ROBLES REGIONAL MED CTR,4,2657,1.51,0.41,3.85,general medical care
+"LOS ROBLES HOSP & MED CTR, E , THOUSAND OAKS",,,,,,general medical care
+"LOS ROBLES HOSP & MED CTR, THOUSAND OAKS",,,,,,general medical care
+THOUSAND OAKS SURGICAL HOSPITAL,,,,,,general medical care
+MARIAN REGIONAL MEDICAL CENTER,,,,,,general medical care
+MARIAN REGIONAL MEDICAL CENTER,0,68,0.00,0.00,44.05,general medical care
+"MARIN GENERAL HOSP, GREENBRAE",0,1140,0.00,0.00,2.63,general medical care
+MARINA DEL REY HOSP,3,739,4.06,0.84,11.86,general medical care
+"MARSHALL MED CTR 1-RH, PLACERVILLE",0,1937,0.00,0.00,1.55,general medical care
+MEMORIAL HOSP OF GARDENA,0,1547,0.00,0.00,1.94,general medical care
+"MEMORIAL MED CTR, MODESTO",0,5243,0.00,0.00,0.57,general medical care
+"MENIFEE VALLEY MED CTR, SUN CITY",1,632,1.58,0.04,8.82,general medical care
+"MERCY GENERAL HOSP, SACRAMENTO",1,6712,0.15,0.00,0.83,general medical care
+MERCY MED CTR MERCED,3,3146,0.95,0.20,2.79,general medical care
+MERCY MED CTR REDDING,1,1889,0.53,0.01,2.95,general medical care
+"MERCY SAN JUAN MED CTR, CARMICHAEL",5,6730,0.74,0.24,1.73,general medical care
+METHODIST HOSP OF SACRAMENTO,0,2429,0.00,0.00,1.23,general medical care
+"METHODIST HOSP OF SOUTHERN CA, ARCADIA",5,2431,2.06,0.67,4.80,general medical care
+MISSION HOSP REGIONAL MED CTR,,,,,,general medical care
+"MISSION HOSP REGIONAL MED CTR, MISSION VIEJO",3,2743,1.09,0.23,3.20,general medical care
+MONTEREY PARK HOSP,0,457,0.00,0.00,6.56,general medical care
+NORTHRIDGE HOSP MED CTR,0,653,0.00,0.00,4.59,general medical care
+"O'CONNOR HOSP, SAN JOSE",0,1512,0.00,0.00,1.98,general medical care
+"ORANGE COAST MEMORIAL MED CTR, FOUNTAIN VALLEY",1,845,1.18,0.03,6.59,general medical care
+OROVILLE HOSP,0,993,0.00,0.00,3.02,general medical care
+PALOMAR HEALTH,2,2824,0.71,0.09,2.56,general medical care
+"PALOMAR HEALTH DOWNTOWN CAMPUS, ESCONDIDO",,,,,,general medical care
+"PALOMAR MED CTR, ESCONDIDO",,,,,,general medical care
+PLACENTIA LINDA HOSP,0,662,0.00,0.00,4.53,general medical care
+"PRESBYTERIAN INTERCOMMUNITY HOSP, WHITTIER",3,11229,0.27,0.06,0.78,general medical care
+"PROVIDENCE HOLY CROSS MED CTR, MISSION HILLS",2,3202,0.62,0.08,2.26,general medical care
+"PROVIDENCE SAINT JOSEPH MED CTR, BURBANK",11,3206,3.43,1.71,6.14,general medical care
+"PROVIDENCE TARZANA MED CTR, TARZANA",5,1812,2.76,0.90,6.44,general medical care
+"QUEEN OF THE VALLEY MED CTR, NAPA",2,1447,1.38,0.17,4.99,general medical care
+REDLANDS COMMUNITY HOSP,0,828,0.00,0.00,3.62,general medical care
+RIVERSIDE COMMUNITY HOSP,3,5169,0.58,0.12,1.70,general medical care
+"RIVERSIDE COUNTY REGIONAL MED CTR, MORENO VALLEY",5,2623,1.91,0.62,4.45,general medical care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",8,7420,1.08,0.47,2.12,general medical care
+SADDLEBACK MEMORIAL MED CTR,3,1237,2.43,0.50,7.09,general medical care
+"SADDLEBACK MEMORIAL MED CTR, LAGUNA HILLS",,,,,,general medical care
+SADDLEBACK MEMORIAL MED CTR-SAN CLEMENTE,,,,,,general medical care
+"SAINT AGNES MED CTR, FRESNO",20,9936,2.01,1.23,3.11,general medical care
+"SAINT FRANCIS MED CTR, LYNWOOD",0,712,0.00,0.00,4.21,general medical care
+"SAINT LOUISE REGIONAL HOSP, GILROY",0,1090,0.00,0.00,2.75,general medical care
+"SAINT VINCENT MED CTR, LOS ANGELES",3,1164,2.58,0.53,7.53,general medical care
+SALINAS VALLEY MEMORIAL HOSP,1,1391,0.72,0.02,4.01,general medical care
+"SAN ANTONIO COMMUNITY HOSP, UPLAND",1,3746,0.27,0.01,1.49,general medical care
+"SAN GABRIEL VALLEY MED CTR, SAN GABRIEL",0,848,0.00,0.00,3.53,general medical care
+"SAN JOAQUIN COMMUNITY HOSP, BAKERSFIELD",6,4348,1.38,0.51,3.00,general medical care
+SANTA BARBARA COTTAGE HOSPITAL,2,4454,0.45,0.05,1.62,general medical care
+SANTA BARBARA COTTAGE HOSP,,,,,,general medical care
+REHABILITATION INSTITUTE AT SANTA BARBARA,,,,,,general medical care
+"SANTA CLARA VALLEY MED CTR, SAN JOSE",0,1768,0.00,0.00,1.69,general medical care
+"SANTA MONICA, UCLA MED CTR AND ORTHOPAEDIC",9,7419,1.21,0.55,2.30,general medical care
+"SCRIPPS GREEN HOSP, LA JOLLA",0,1552,0.00,0.00,1.93,general medical care
+SCRIPPS HEALTH,14,7167,1.95,1.07,3.28,general medical care
+"SCRIPPS MERCY HOSP, SAN DIEGO",,,,,,general medical care
+SCRIPPS MERCY HOSP CHULA VISTA,,,,,,general medical care
+"SCRIPPS MEMORIAL HOSP, ENCINITAS",0,1636,0.00,0.00,1.83,general medical care
+"SCRIPPS MEMORIAL HOSP, LA JOLLA",9,3962,2.27,1.04,4.31,general medical care
+"SENECA HEALTHCARE DISTRICT, CHESTER",0,36,,,,general medical care
+SETON MED CTR,0,1392,0.00,0.00,2.15,general medical care
+"SETON MED CTR-COASTSIDE, MOSS BEACH",,,,,,general medical care
+"SETON MED CTR, DALY CITY",,,,,,general medical care
+SHARP CHULA VISTA MED CTR,3,2912,1.03,0.21,3.01,general medical care
+"SHARP MEMORIAL HOSP, SAN DIEGO",0,3361,0.00,0.00,0.89,general medical care
+"SHASTA REGIONAL MED CTR, REDDING",0,64,0.00,0.00,46.81,general medical care
+"SIERRA NEVADA MEMORIAL HOSP, GRASS VALLEY",0,1125,0.00,0.00,2.66,general medical care
+"SIERRA VIEW DISTRICT HOSP, PORTERVILLE",1,246,4.07,0.10,22.65,general medical care
+SIMI VALLEY HOSP & HEALTH CARE SERVICES,1,1136,0.88,0.02,4.90,general medical care
+"SONOMA DEVELOPMENTAL CTR, ELDRIDGE",0,515,0.00,0.00,5.82,general medical care
+ST BERNARDINE MED CTR,0,220,0.00,0.00,13.62,general medical care
+"ST JOHN'S REGIONAL MED CTR, OXNARD",6,2207,2.72,1.00,5.92,general medical care
+"ST JOSEPH HOSP, ORANGE",3,3867,0.78,0.16,2.27,general medical care
+ST JOSEPH'S MED CTR OF STOCKTON,0,1593,0.00,0.00,1.88,general medical care
+"ST JUDE MED CTR, FULLERTON",0,1045,0.00,0.00,2.87,general medical care
+"ST MARY MED CTR, APPLE VALLEY",3,3526,0.85,0.18,2.49,general medical care
+"ST MARY MED CTR, LONG BEACH",2,1330,1.50,0.18,5.43,general medical care
+"STANFORD HOSP, STANFORD",1,3119,0.32,0.01,1.79,general medical care
+"SUTTER COAST HOSP, CRESCENT CITY",1,424,2.36,0.06,13.14,general medical care
+"SUTTER DELTA MED CTR, ANTIOCH",2,777,2.57,0.31,9.30,general medical care
+SUTTER HEALTH SACRAMENTO SIERRA REGION,0,1753,0.00,0.00,1.71,general medical care
+"SUTTER GENERAL HOSP, SACRAMENTO",,,,,,general medical care
+"SUTTER MEMORIAL HOSP, SACRAMENTO",,,,,,general medical care
+"SUTTER MED CTR, CASTRO VALLEY",0,91,0.00,0.00,32.92,general medical care
+"EDEN MED CTR, CASTRO VALLEY",,,,,,general medical care
+SAN LEANDRO HOSP,,,,,,general medical care
+SUTTER MED CTR OF SANTA ROSA,0,1702,0.00,0.00,1.76,general medical care
+SUTTER ROSEVILLE MED CTR,0,2568,0.00,0.00,1.17,general medical care
+"SUTTER SOLANO MED CTR, VALLEJO",0,628,0.00,0.00,4.77,general medical care
+SUTTER TRACY COMMUNITY HOSP,2,1008,1.98,0.24,7.17,general medical care
+"TORRANCE MEMORIAL MED CTR, TORRANCE",2,5505,0.36,0.04,1.31,general medical care
+"TRI-CITY MED CTR, OCEANSIDE",3,6949,0.43,0.09,1.26,general medical care
+"UHS-CORONA, INC.",0,1130,0.00,0.00,2.65,general medical care
+"CORONA REGIONAL MED CTR, CAMPUS #1",,,,,,general medical care
+"CORONA REGIONAL MED CTR, CAMPUS #2",,,,,,general medical care
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",2,2540,0.8,0.10,2.84,general medical care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",3,1707,1.8,0.36,5.14,general medical care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO MED CTR",,,,,,general medical care
+"UCSD-LA JOLLA, JOHN M.& SALLY B. THORNTON HOSP",,,,,,general medical care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",3,4009,0.8,0.15,2.19,general medical care
+"UCSF MED CTR, SAN FRANCISCO",,,,,,general medical care
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,general medical care
+"VALLEY PRESBYTERIAN HOSP, VAN NUYS",2,1573,1.3,0.15,4.59,general medical care
+"VICTOR VALLEY COMMUNITY HOSP, VICTORVILLE",0,674,0.0,0.00,4.44,general medical care
+"WASHINGTON HOSP, FREMONT",5,3545,1.4,0.46,3.29,general medical care
+"WEST ANAHEIM MED CTR, ANAHEIM",0,597,0.0,0.00,5.02,general medical care
+WEST HILLS HOSP AND MED CTR,0,229,0.0,0.00,13.08,general medical care
+WESTERN MED CTR SANTA ANA,3,1369,2.2,0.45,6.40,general medical care
+"WHITE MEMORIAL MED CTR, LOS ANGELES",4,2505,1.6,0.44,4.09,general medical care
+WHITTIER HOSP MED CTR,1,676,1.5,0.04,8.24,general medical care
+STATE OF CALIFORNIA POOLED DATA,483,593088,0.81,,,general medical/surgical care
+ADVENTIST HEALTH SYSTEMS,5,4152,1.20,0.39,2.81,general medical/surgical care
+"ADVENTIST MED CTR, HANFORD",,,,,,general medical/surgical care
+ADVENTIST MED CTR-SELMA,,,,,,general medical/surgical care
+"ADVENTIST MED CTR, REEDLEY",0,8,,,,general medical/surgical care
+"AHMC ANAHEIM REGIONAL MED CTR, ANAHEIM",1,1604,0.62,0.02,3.47,general medical/surgical care
+ALAMEDA COUNTY MED CTR,5,5971,0.84,0.27,1.95,general medical/surgical care
+"ALAMEDA COUNTY MED CTR, OAKLAND",,,,,,general medical/surgical care
+"ALAMEDA COUNTY MED CTR-FAIRMONT CAMPUS, SAN LEANDRO",,,,,,general medical/surgical care
+ALAMEDA HOSP,0,276,0.00,0.00,10.85,general medical/surgical care
+ALHAMBRA HOSP MED CTR,0,209,0.00,0.00,14.33,general medical/surgical care
+"ALTA LOS ANGELES HOSPS, INC.",1,1589,0.63,0.02,3.51,general medical/surgical care
+LOS ANGELES COMMUNITY HOSP,,,,,,general medical/surgical care
+NORWALK COMMUNITY HOSP,,,,,,general medical/surgical care
+ANAHEIM GENERAL HOSP,0,258,0.00,0.00,11.61,general medical/surgical care
+"ANTELOPE VALLEY HOSP, LANCASTER",6,9728,0.62,0.23,1.34,general medical/surgical care
+"ARROWHEAD RGN MED CTR, COLTON",6,4215,1.42,0.52,3.10,general medical/surgical care
+BAKERSFIELD MEMORIAL HOSP,4,3522,1.14,0.31,2.91,general medical/surgical care
+"BANNER LASSEN MED CTR, SUSANVILLE",0,363,0.00,0.00,8.25,general medical/surgical care
+BARSTOW COMMUNITY HOSP,0,160,0.00,0.00,18.72,general medical/surgical care
+"BARTON MEMORIAL HOSP, SOUTH LAKE TAHOE",0,234,0.00,0.00,12.80,general medical/surgical care
+"BEAR VALLEY COMMUNITY HOSP, BIG BEAR LAKE",0,60,0.00,0.00,49.93,general medical/surgical care
+BELLFLOWER MED CTR,0,317,0.00,0.00,9.45,general medical/surgical care
+"BEVERLY HOSP, MONTEBELLO",2,2403,0.83,0.10,3.01,general medical/surgical care
+"BIGGS GRIDLEY MEMORIAL HOSP, GRIDLEY",0,62,0.00,0.00,48.32,general medical/surgical care
+"BROTMAN MED CTR, CULVER CITY",0,1081,0.00,0.00,2.77,general medical/surgical care
+"CALIFORNIA HOSP MED CTR, LOS ANGELES",3,3350,0.90,0.18,2.62,general medical/surgical care
+"CALIFORNIA MENS COLONY, SAN LUIS OBISPO",5,2001,2.50,0.81,5.83,general medical/surgical care
+"CALIFORNIA PACIFIC MED CTR, ST LUKE'S CAMPUS, SAN FRANCISCO",1,1579,0.63,0.02,3.53,general medical/surgical care
+"CEDARS-SINAI MED CTR, LOS ANGELES",3,3897,0.77,0.16,2.25,general medical/surgical care
+"CENTINELA HOSP MED CTR, INGLEWOOD",0,1943,0.00,0.00,1.54,general medical/surgical care
+"CHAPMAN MED CTR, ORANGE",0,232,0.00,0.00,12.91,general medical/surgical care
+"CHINESE HOSP, SAN FRANCISCO",0,506,0.00,0.00,5.92,general medical/surgical care
+"CHINO VALLEY MED CTR, CHINO",0,284,0.00,0.00,10.55,general medical/surgical care
+"CITRUS VALLEY MED CTR, INC.",9,5920,1.52,0.70,2.89,general medical/surgical care
+"CITRUS VALLEY MED CTR, IC , COVINA",,,,,,general medical/surgical care
+"CITRUS VALLEY MED CTR, QV, WEST COVINA",,,,,,general medical/surgical care
+CLOVIS COMMUNITY MED CTR,0,135,0.00,0.00,22.19,general medical/surgical care
+COALINGA REGIONAL MED CTR,0,23,,,,general medical/surgical care
+"COAST PLAZA HOSP, NORWALK",0,306,0.00,0.00,9.79,general medical/surgical care
+COLLEGE HOSP COSTA MESA,0,551,0.00,0.00,5.44,general medical/surgical care
+COLUSA REG MED CTR,0,75,0.00,0.00,39.94,general medical/surgical care
+COMMUNITY AND MISSION HOSP OF HUNTINGTON PARK,0,108,0.00,0.00,27.74,general medical/surgical care
+COMMUNITY HOSP LONG BEACH,1,853,1.17,0.03,6.53,general medical/surgical care
+"COMMUNITY HOSP OF THE MONTEREY PENINSULA, MONTEREY",2,4091,0.49,0.06,1.77,general medical/surgical care
+COMMUNITY HOSP OF SAN BERNARDINO,1,2175,0.46,0.01,2.56,general medical/surgical care
+"COMMUNITY MEMORIAL HOSP, SAN BUENAVENTURA, VENTURA",0,3150,0.00,0.00,0.95,general medical/surgical care
+"COMMUNITY REGIONAL MED CTR, FRESNO",14,7048,1.99,1.09,3.33,general medical/surgical care
+COUNTY OF VENTURA,0,53,0.00,0.00,56.52,general medical/surgical care
+VENTURA COUNTY MED CTR,,,,,,general medical/surgical care
+"VENTURA COUNTY MED CTR, SANTA PAULA HOSP",,,,,,general medical/surgical care
+"DAMERON HOSP, STOCKTON",1,3385,0.30,0.01,1.65,general medical/surgical care
+DELANO REGIONAL MED CTR,1,320,3.13,0.08,17.41,general medical/surgical care
+"DESERT REGIONAL MED CTR, PALM SPRINGS",2,976,2.05,0.25,7.40,general medical/surgical care
+"DESERT VALLEY HOSP, VICTORVILLE",1,1423,0.70,0.02,3.92,general medical/surgical care
+DIGNITY HEALTH,1,1932,0.52,0.01,2.88,general medical/surgical care
+"DOMINICAN HOSP CAMPUS #1, SANTA CRUZ",,,,,,general medical/surgical care
+"DOMINICAN HOSP CAMPUS #2, SANTA CRUZ",,,,,,general medical/surgical care
+DIGNITY HEALTH,5,5926,0.84,0.27,1.97,general medical/surgical care
+"MERCY HOSP, BAKERSFIELD",,,,,,general medical/surgical care
+"MERCY SOUTHWEST HOSP, BAKERSFIELD",,,,,,general medical/surgical care
+DOCTORS HOSP OF MANTECA,2,1363,1.47,0.18,5.30,general medical/surgical care
+"DOCTORS HOSP OF WEST COVINA, INC, WEST COVINA",0,18,,,,general medical/surgical care
+"DOCTORS MED CTR, MODESTO",0,552,0.00,0.00,5.43,general medical/surgical care
+"DOCTORS MED CTR, SAN PABLO",0,78,0.00,0.00,38.41,general medical/surgical care
+"EARL & LORAINE MILLER CHILDREN'S HOSP, LONG BEACH",0,16,,,,general medical/surgical care
+"EAST LOS ANGELES DOCTORS HOSP, LOS ANGELES",0,297,0.00,0.00,10.09,general medical/surgical care
+"EAST VALLEY HOSP MED CTR, GLENDORA",0,82,0.00,0.00,36.53,general medical/surgical care
+"EL CAMINO HOSP, LOS GATOS",0,657,0.00,0.00,4.56,general medical/surgical care
+EL CENTRO REGIONAL MED CTR,1,1248,0.80,0.02,4.46,general medical/surgical care
+"ENCINO HOSP MED CTR, ENCINO",0,555,0.00,0.00,5.40,general medical/surgical care
+ENLOE MED CTR,0,1277,0.00,0.00,2.35,general medical/surgical care
+"ENLOE MED CTR-COHASSET, CHICO",,,,,,general medical/surgical care
+"ENLOE MED CTR-ESPLANADE, CHICO",,,,,,general medical/surgical care
+"ENLOE REHABILITATION CTR, CHICO",,,,,,general medical/surgical care
+"FAIRCHILD MED CTR, YREKA",0,190,0.00,0.00,15.77,general medical/surgical care
+"FOOTHILL PRESBYTERIAN HSP-JOHNSTON MEMORIAL, GLENDORA",0,1297,0.00,0.00,2.31,general medical/surgical care
+"FRANK R. HOWARD MEMORIAL HOSP, WILLITS",0,530,0.00,0.00,5.65,general medical/surgical care
+FREMONT-RIDEOUT HEALTH GROUP,0,2344,0.00,0.00,1.28,general medical/surgical care
+"FREMONT MED CTR, YUBA CITY",,,,,,general medical/surgical care
+"RIDEOUT MEMORIAL HOSP, MARYSVILLE",,,,,,general medical/surgical care
+"FRENCH HOSP MED CTR, SAN LUIS OBISPO",1,438,2.28,0.06,12.72,general medical/surgical care
+GARDEN GROVE HOSP AND MED CTR,5,1315,3.80,1.23,8.87,general medical/surgical care
+"GARFIELD MED CTR, MONTEREY PARK",0,1112,0.00,0.00,2.69,general medical/surgical care
+"GEORGE L. MEE MEMORIAL HOSP, KING CITY",0,126,0.00,0.00,23.78,general medical/surgical care
+GLENDALE ADVENTIST MED CTR,0,85,0.00,0.00,35.24,general medical/surgical care
+GLENDALE MEMORIAL HOSP AND HEALTH CTR,0,1442,0.00,0.00,2.08,general medical/surgical care
+"GLENN MED CTR, WILLOWS",0,22,,,,general medical/surgical care
+"GOLETA VALLEY COTTAGE HOSP, SANTA BARBARA",0,183,0.00,0.00,16.37,general medical/surgical care
+"GOOD SAMARITAN HOSP, LOS ANGELES",0,573,0.00,0.00,5.23,general medical/surgical care
+"GREATER EL MONTE COMMUNITY HOSP, SOUTH EL MONTE",0,802,0.00,0.00,3.74,general medical/surgical care
+"GROSSMONT HOSP, LA MESA",3,4992,0.60,0.12,1.76,general medical/surgical care
+"HAZEL HAWKINS MEMORIAL HOSP, HOLLISTER",0,379,0.00,0.00,7.90,general medical/surgical care
+HEALDSBURG DISTRICT HOSP,0,384,0.00,0.00,7.80,general medical/surgical care
+HEMET VALLEY MED CTR,0,991,0.00,0.00,3.02,general medical/surgical care
+"HENRY MAYO NEWHALL MEMORIAL HOSP, VALENCIA",7,7629,0.92,0.37,1.89,general medical/surgical care
+"HI-DESERT MED CTR, JOSHUA TREE",0,607,0.00,0.00,4.94,general medical/surgical care
+"HOAG MEMORIAL HOSP PRESBYTERIAN, INC",11,10264,1.07,0.53,1.92,general medical/surgical care
+"HOAG HOSPITAL, IRVINE",,,,,,general medical/surgical care
+"HOAG MEMORIAL HOSP PRESBYTERIAN, NEWPORT BEACH",,,,,,general medical/surgical care
+HOLLYWOOD COMMUNITY HOSP OF HOLLYWOOD,2,895,2.23,0.27,8.07,general medical/surgical care
+"HOLLYWOOD PRESBYTERIAN MED CTR, LOS ANGELES",0,1632,0.00,0.00,1.84,general medical/surgical care
+HOSPITAL COMMITTEE AREA LIVERMORE PLEASANTON,0,63,0.00,0.00,47.55,general medical/surgical care
+"VALLEYCARE MEDICAL CENTER, PLEASANTON",,,,,,general medical/surgical care
+"VALLEY MEMORIAL HOSPITAL, LIVERMORE",,,,,,general medical/surgical care
+HUNTINGTON BEACH HOSP,1,310,3.23 0.08,17.97,,general medical/surgical care
+"JOHN D KLARICH MEMORIAL HOSP, CSP-CORCORAN",4,4238,0.94,0.26,2.42,general medical/surgical care
+"JOHN MUIR MED CTR, CONCORD",1,55,18.18 0.46,101.30,,general medical/surgical care
+"JOHN MUIR MED CTR, WALNUT CREEK",0,311,0.00,0.00,9.63,general medical/surgical care
+"KAISER FOUNDATION HOSP, ANTIOCH",2,956,2.09,0.25,7.56,general medical/surgical care
+"KAISER FOUNDATION HOSP, BALDWIN PARK",0,2494,0.00,0.00,1.20,general medical/surgical care
+"KAISER FOUNDATION HOSP-DOWNEY, BELLFLOWER",4,4482,0.89,0.24,2.29,general medical/surgical care
+"KAISER FOUNDATION HOSP, FRESNO",1,2043,0.49,0.01,2.73,general medical/surgical care
+"KAISER FOUNDATION HOSP, LOS ANGELES",4,3106,1.29,0.35,3.30,general medical/surgical care
+"KAISER FOUNDATION HOSP, MORENO VALLEY",1,601,1.66,0.04,9.27,general medical/surgical care
+"KAISER FOUNDATION HOSP, PANORAMA CITY",0,1772,0.00,0.00,1.69,general medical/surgical care
+"KAISER FOUNDATION HOSP, REDWOOD CITY",0,1626,0.00,0.00,1.84,general medical/surgical care
+"KAISER FOUNDATION HOSP, RIVERSIDE",1,6699,0.15,0.00,0.83,general medical/surgical care
+"KAISER FOUNDATION HOSP, ROSEVILLE",2,5215,0.38,0.05,1.39,general medical/surgical care
+"KAISER FOUNDATION HOSP, SACRAMENTO",5,5987,0.84,0.27,1.95,general medical/surgical care
+"KAISER FOUNDATION HOSP, SAN DIEGO",1,1810,0.55,0.01,3.08,general medical/surgical care
+"KAISER FOUNDATION HOSP, SAN FRANCISCO",4,4835,0.83,0.23,2.12,general medical/surgical care
+KAISER FOUNDATION HOSP-SAN JOSE,0,659,0.00,0.00,4.55,general medical/surgical care
+"KAISER FOUNDATION HOSP, SAN RAFAEL",1,2119,0.47,0.01,2.63,general medical/surgical care
+KAISER FOUNDATION HOSP-SANTA CLARA,2,4202,0.48,0.06,1.72,general medical/surgical care
+"KAISER FOUNDATION HOSP, SANTA ROSA",1,2744,0.36,0.01,2.03,general medical/surgical care
+"KAISER FOUNDATION HOSP SOUTH BAY, HARBOR CITY",4,3241,1.23,0.34,3.16,general medical/surgical care
+KAISER FOUNDATION HOSP-SOUTH SACRAMENTO,0,4146,0.00,0.00,0.72,general medical/surgical care
+"KAISER FOUNDATION HOSP, SOUTH SAN FRANCISCO",1,1385,0.72,0.02,4.02,general medical/surgical care
+"KAISER FOUNDATION HOSP, VACAVILLE",2,1479,1.35,0.16,4.88,general medical/surgical care
+"KAISER FOUNDATION HOSP & REHAB. CTR, VALLEJO",0,886,0.00,0.00,3.38,general medical/surgical care
+KAISER FOUNDATION HOSP-WALNUT CREEK,7,5437,1.29,0.52,2.65,general medical/surgical care
+"KAISER FOUNDATION HOSP-WEST LA, LOS ANGELES",0,667,0.00,0.00,4.49,general medical/surgical care
+"KAISER FOUNDATION HOSP, WOODLAND HILLS",0,933,0.00,0.00,3.21,general medical/surgical care
+KAISER FOUNDATION HOSPS,2,2578,0.78,0.09,2.80,general medical/surgical care
+KAISER FOUNDATION HOSP-ANAHEIM MEDICAL CENTER,,,,,,general medical/surgical care
+KAISER FOUNDATION HOSP-LAKEVIEW MEDICAL CENTER,,,,,,general medical/surgical care
+KAISER FOUNDATION HOSPS,,,,,,general medical/surgical care
+"KAISER FOUNDATION HOSP, IRVINE",1,1968,0.51,0.01,2.83,general medical/surgical care
+"KAISER FOUNDATION HOSP, ONTARIO",0,341,0.00,0.00,8.79,general medical/surgical care
+KAISER FOUNDATION HOSPS,1,3475,0.29,0.01,1.60,general medical/surgical care
+"KAISER FOUNDATION HOSP, FREMONT",,,,,,general medical/surgical care
+"KAISER FOUNDATION HOSP, HAYWARD/FREMONT",,,,,,general medical/surgical care
+KAISER FOUNDATION HOSPS,0,2598,0.00,0.00,1.15,general medical/surgical care
+"KAISER FOUNDATION HOSP, MODESTO",,,,,,general medical/surgical care
+"KAISER FOUNDATION HOSP, MANTECA",,,,,,general medical/surgical care
+KAISER FOUNDATION HOSPS,2,3773,0.53,0.06,1.91,general medical/surgical care
+"KAISER FOUNDATION HOSP, OAKLAND/RICHMOND",,,,,,general medical/surgical care
+"KAISER FOUNDATION HOSP, RICHMOND CAMPUS",,,,,,general medical/surgical care
+"KAWEAH DELTA MED CTR, VISALIA",5,7640,0.65,0.21,1.53,general medical/surgical care
+"KECK HOSP OF USC, LOS ANGELES",6,9494,0.63,0.23,1.38,general medical/surgical care
+"KERN MED CTR, BAKERSFIELD",3,3785,0.79,0.16,2.32,general medical/surgical care
+"KERN VALLEY HEALTHCARE DISTRICT, LAKE ISABELLA",0,291,0.00,0.00,10.29,general medical/surgical care
+LA PALMA INTERCOMMUNITY HOSP,0,883,0.00,0.00,3.39,general medical/surgical care
+"LAC+USC MED CTR, LOS ANGELES",15,12077,1.24,0.70,2.05,general medical/surgical care
+"LAC/HARBOR-UCLA MED CTR, TORRANCE",1,584,1.71,0.04,9.54,general medical/surgical care
+"LAC/RANCHO LOS AMIGOS NATIONAL REHAB CTR, DOWNEY",0,2417,0.00,0.00,1.24,general medical/surgical care
+LAKEWOOD REGIONAL MED CTR,3,2448,1.23,0.25,3.58,general medical/surgical care
+"LODI MEMORIAL HOSP ASSOCIATION, INC.",0,52,0.00,0.00,57.61,general medical/surgical care
+LODI MEMORIAL HOSP 1RH,,,,,,general medical/surgical care
+LODI MEMORIAL HOSP-WEST,,,,,,general medical/surgical care
+LOMA LINDA UNIVERSITY MED CTR,0,3690,0.00,0.00,0.81,general medical/surgical care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,general medical/surgical care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,general medical/surgical care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,general medical/surgical care
+LOMA LINDA UNIVERSITY MEDICAL CENTER - MURRIETA,0,841,0.00,0.00,3.56,general medical/surgical care
+LOMPOC VALLEY MED CTR,0,679,0.00,0.00,4.41,general medical/surgical care
+LOS ALAMITOS MED CTR,0,203,0.00,0.00,14.76,general medical/surgical care
+"LOS ANGELES CO OLIVE VIEW-UCLA MED CTR, SYLMAR",1,3783,0.26,0.01,1.47,general medical/surgical care
+LOS ANGELES METROPOLITAN MED CTR,2,509,3.93,0.48,14.19,general medical/surgical care
+LOS ROBLES REGIONAL MED CTR,0,1423,0.00,0.00,2.11,general medical/surgical care
+"LOS ROBLES HOSP & MED CTR, E , THOUSAND OAKS",,,,,,general medical/surgical care
+"LOS ROBLES HOSP & MED CTR, THOUSAND OAKS",,,,,,general medical/surgical care
+THOUSAND OAKS SURGICAL HOSPITAL,,,,,,general medical/surgical care
+"MAD RIVER COMMUNITY HOSP, ARCATA",0,1028,0.00,0.00,2.91,general medical/surgical care
+MADERA COMMUNITY HOSP,2,400,5.00,0.61,18.06,general medical/surgical care
+MAMMOTH HOSP,0,40,,,,general medical/surgical care
+MARIAN REGIONAL MEDICAL CENTER,,,,,,general medical/surgical care
+MARIAN REGIONAL MEDICAL CENTER,0,880,0.00,0.00,3.40,general medical/surgical care
+"MARIN GENERAL HOSP, GREENBRAE",7,2340,2.99,1.20,6.16,general medical/surgical care
+MARINA DEL REY HOSP,0,445,0.00,0.00,6.73,general medical/surgical care
+"MARK TWAIN MEDICAL CENTER, SAN ANDREAS",0,322,0.00,0.00,9.30,general medical/surgical care
+"MARSHALL MED CTR 1-RH, PLACERVILLE",0,1224,0.00,0.00,2.45,general medical/surgical care
+"MAYERS MEMORIAL HOSP, FALL RIVER MILLS",0,130,0.00,0.00,23.04,general medical/surgical care
+MEMORIAL HOSP LOS BANOS,0,111,0.00,0.00,26.99,general medical/surgical care
+MEMORIAL HOSP OF GARDENA,1,2236,0.45,0.01,2.49,general medical/surgical care
+"MEMORIAL MED CTR, MODESTO",1,4912,0.20,0.01,1.13,general medical/surgical care
+"MENDOCINO COAST DISTRICT HOSP, FORT BRAGG",2,597,3.35,0.41,12.10,general medical/surgical care
+"MENIFEE VALLEY MED CTR, SUN CITY",0,370,0.00,0.00,8.10,general medical/surgical care
+MERCY HOSP OF FOLSOM,0,1391,0.00,0.00,2.15,general medical/surgical care
+MERCY MED CTR MT. SHASTA,0,34,,,,general medical/surgical care
+MERCY MED CTR REDDING,0,672,0.00,0.00,4.46,general medical/surgical care
+"MERCY SAN JUAN MED CTR, CARMICHAEL",2,2088,0.96,0.12,3.46,general medical/surgical care
+METHODIST HOSP OF SACRAMENTO,0,375,0.00,0.00,7.99,general medical/surgical care
+"METHODIST HOSP OF SOUTHERN CA, ARCADIA",1,847,1.18,0.03,6.58,general medical/surgical care
+MILLS-PENINSULA HEALTH SERVICES,0,3316,0.00,0.00,0.90,general medical/surgical care
+"MILLS HEALTH CTR, SAN MATEO",,,,,,general medical/surgical care
+"MILLS-PENINSULA MED CTR, BURLINGAME",,,,,,general medical/surgical care
+"MISSION COMMUNITY HOSP, PANORAMA",9,1195,7.53,3.44,14.30,general medical/surgical care
+MISSION HOSP REGIONAL MED CTR,,,,,,general medical/surgical care
+MISSION HOSP LAGUNA BEACH,1,516,1.94,0.05,10.80,general medical/surgical care
+"MISSION HOSP REGIONAL MED CTR, MISSION VIEJO",1,4700,0.21,0.01,1.19,general medical/surgical care
+MONTCLAIR HOSP MED CTR,0,952,0.00,0.00,3.15,general medical/surgical care
+MONTEREY PARK HOSP,0,280,0.00,0.00,10.70,general medical/surgical care
+"NATIVIDAD MED CTR, SALINAS",0,1341,0.00,0.00,2.23,general medical/surgical care
+NORTHBAY HEALTHCARE GROUP,,,,,,general medical/surgical care
+"NORTHBAY MED CTR, FAIRFIELD",4,1967,2.03,0.55,5.21,general medical/surgical care
+"NORTHBAY VACAVALLEY HOSP, VACAVILLE",0,1344,0.00,0.00,2.23,general medical/surgical care
+"NORTHERN INYO HOSP, BISHOP",0,147,0.00,0.00,20.38,general medical/surgical care
+NORTHRIDGE HOSP MED CTR,3,3423,0.88,0.18,2.56,general medical/surgical care
+NOVATO COMMUNITY HOSP,0,312,0.00,0.00,9.60,general medical/surgical care
+"O'CONNOR HOSP, SAN JOSE",1,1665,0.60,0.02,3.35,general medical/surgical care
+"OAK VALLEY HOSP DISTRICT 2-RH, OAKDALE",0,265,0.00,0.00,11.30,general medical/surgical care
+"OJAI VALLEY COMMUNITY HOSP, OJAI",0,182,0.00,0.00,16.46,general medical/surgical care
+"OLYMPIA MED CTR, LOS ANGELES",3,1615,1.86,0.38,5.43,general medical/surgical care
+OROVILLE HOSP,0,701,0.00,0.00,4.27,general medical/surgical care
+PACIFIC ALLIANCE MED CTR,2,1670,1.20,0.15,4.33,general medical/surgical care
+"PACIFICA HOSP OF THE VALLEY, SUN VALLEY",1,171,5.85,0.15,32.58,general medical/surgical care
+"PALM DRIVE HOSP, SEBASTOPOL",0,336,0.00,0.00,8.92,general medical/surgical care
+PALMDALE REGIONAL MEDICAL CTR,0,1730,0.00,0.00,1.73,general medical/surgical care
+"PALO VERDE HOSP, BLYTHE",0,151,0.00,0.00,19.84,general medical/surgical care
+PALOMAR HEALTH,0,1281,0.00,0.00,2.34,general medical/surgical care
+"PALOMAR HEALTH DOWNTOWN CAMPUS, ESCONDIDO",,,,,,general medical/surgical care
+"PALOMAR MED CTR, ESCONDIDO",,,,,,general medical/surgical care
+"PARADISE VALLEY HOSP, NATIONAL CITY",0,491,0.00,0.00,6.10,general medical/surgical care
+"PARKVIEW COMMUNITY HOSP MED CTR, RIVERSIDE",0,2700,0.00,0.00,1.11,general medical/surgical care
+"PETALUMA VALLEY HOSP, PETALUMA",0,770,0.00,0.00,3.89,general medical/surgical care
+"PIONEERS MEMORIAL HEALTHCARE DISTRICT, BRAWLEY",0,453,0.00,0.00,6.61,general medical/surgical care
+PLACENTIA LINDA HOSP,0,434,0.00,0.00,6.90,general medical/surgical care
+"PLUMAS DISTRICT HOSP, QUINCY",0,49,,,,general medical/surgical care
+"POMERADO HOSP, POWAY",2,2517,0.79,0.10,2.87,general medical/surgical care
+"POMONA VALLEY HOSP MED CTR, POMONA",5,9911,0.50,0.16,1.18,general medical/surgical care
+PORTERVILLE DEVELOPMENTAL CTR,0,81,0.00,0.00,36.98,general medical/surgical care
+"PROVIDENCE HOLY CROSS MED CTR, MISSION HILLS",12,6384,1.88,0.97,3.28,general medical/surgical care
+"PROVIDENCE LITTLE COMPANY OF MARY MED CTR, SAN PEDRO",2,2849,0.70,0.09,2.54,general medical/surgical care
+"PROVIDENCE LITTLE COMPANY OF MARY MED CTR, TORRANCE",7,6077,1.15,0.46,2.37,general medical/surgical care
+"PROVIDENCE SAINT JOSEPH MED CTR, BURBANK",4,2826,1.42,0.39,3.62,general medical/surgical care
+"PROVIDENCE TARZANA MED CTR, TARZANA",3,1629,1.84,0.38,5.38,general medical/surgical care
+"QUEEN OF THE VALLEY MED CTR, NAPA",3,2616,1.15,0.24,3.35,general medical/surgical care
+REDLANDS COMMUNITY HOSP,1,3060,0.33,0.01,1.82,general medical/surgical care
+"REDWOOD MEMORIAL HOSP, FORTUNA",0,354,0.00,0.00,8.46,general medical/surgical care
+REGIONAL MED CTR OF SAN JOSE,2,3558,0.56,0.07,2.03,general medical/surgical care
+RIDGECREST REGIONAL HOSP,3,888,3.38,0.70,9.87,general medical/surgical care
+"RIVERSIDE COUNTY REGIONAL MED CTR, MORENO VALLEY",3,2473,1.21,0.25,3.55,general medical/surgical care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",10,5821,1.72,0.82,3.16,general medical/surgical care
+SADDLEBACK MEMORIAL MED CTR,4,2175,1.84,0.50,4.71,general medical/surgical care
+"SADDLEBACK MEMORIAL MED CTR, LAGUNA HILLS",,,,,,general medical/surgical care
+SADDLEBACK MEMORIAL MED CTR-SAN CLEMENTE,,,,,,general medical/surgical care
+"SAINT AGNES MED CTR, FRESNO",3,1160,2.59,0.53,7.56,general medical/surgical care
+"SAINT FRANCIS MED CTR, LYNWOOD",4,4289,0.93,0.25,2.39,general medical/surgical care
+"SAINT FRANCIS MEMORIAL HOSP, SAN FRANCISCO",1,2317,0.43,0.01,2.40,general medical/surgical care
+"SAINT JOHN'S HEALTH CTR, SANTA MONICA",2,1870,1.07,0.13,3.86,general medical/surgical care
+"SAINT VINCENT MED CTR, LOS ANGELES",3,2175,1.38,0.28,4.03,general medical/surgical care
+SALINAS VALLEY MEMORIAL HOSP,8,2744,2.92,1.26,5.74,general medical/surgical care
+"SAN ANTONIO COMMUNITY HOSP, UPLAND",2,3336,0.60,0.07,2.17,general medical/surgical care
+SAN DIMAS COMMUNITY HOSP,1,708,1.41,0.04,7.87,general medical/surgical care
+SAN FRANCISCO GENERAL HOSP,1,1525,0.66,0.02,3.65,general medical/surgical care
+"SAN GABRIEL VALLEY MED CTR, SAN GABRIEL",1,1496,0.67,0.02,3.72,general medical/surgical care
+"SAN GORGONIO MEMORIAL HOSP, BANNING",2,1261,1.59,0.19,5.73,general medical/surgical care
+"SAN JOAQUIN COMMUNITY HOSP, BAKERSFIELD",17,6377,2.67,1.55,4.27,general medical/surgical care
+"SAN JOAQUIN GENERAL HOSP, FRENCH P",5,4089,1.22,0.40,2.85,general medical/surgical care
+SAN MATEO MED CTR,1,910,1.10,0.03,6.12,general medical/surgical care
+"SAN RAMON REGIONAL MED CTR, INC.",1,554,1.81,0.05,10.06,general medical/surgical care
+SAN RAMON REGIONAL MED CTR,,,,,,general medical/surgical care
+SAN RAMON REGIONAL MED CTR SOUTH BUILDING,,,,,,general medical/surgical care
+SANTA BARBARA COTTAGE HOSPITAL,0,1508,0.00,0.00,1.99,general medical/surgical care
+SANTA BARBARA COTTAGE HOSP,,,,,,general medical/surgical care
+REHABILITATION INSTITUTE AT SANTA BARBARA,,,,,,general medical/surgical care
+SANTA ROSA MEMORIAL HOSP,1,5391,0.19,0.00,1.03,general medical/surgical care
+"SCRIPPS MEMORIAL HOSP, ENCINITAS",0,4,,,,general medical/surgical care
+"SEQUOIA HOSP, REDWOOD CITY",1,1428,0.70,0.02,3.90,general medical/surgical care
+SETON MED CTR,0,1521,0.00,0.00,1.97,general medical/surgical care
+"SETON MED CTR-COASTSIDE, MOSS BEACH",,,,,,general medical/surgical care
+"SETON MED CTR, DALY CITY",,,,,,general medical/surgical care
+SHARP CHULA VISTA MED CTR,0,1430,0.00,0.00,2.09,general medical/surgical care
+SHARP CORONADO HOSP AND HEALTHCARE CTR,0,319,0.00,0.00,9.39,general medical/surgical care
+"SHARP MARY BIRCH FOR WOMEN & NEWBORNS, SAN DIEGO",0,33,,,,general medical/surgical care
+"SHARP MEMORIAL HOSP, SAN DIEGO",0,412,0.00,0.00,7.27,general medical/surgical care
+"SHASTA REGIONAL MED CTR, REDDING",2,1219,1.64,0.20,5.93,general medical/surgical care
+SHERMAN OAKS HOSP,0,238,0.00,0.00,12.59,general medical/surgical care
+"SIERRA VIEW DISTRICT HOSP, PORTERVILLE",1,596,1.68,0.04,9.35,general medical/surgical care
+"SIERRA VISTA REGIONAL MED CTR, SAN LUIS OBISPO",1,1256,0.80,0.02,4.44,general medical/surgical care
+"SILVER LAKE MED CTR, LOS ANGELES",0,1035,0.00,0.00,2.89,general medical/surgical care
+SIMI VALLEY HOSP & HEALTH CARE SERVICES,1,1228,0.81,0.02,4.54,general medical/surgical care
+SONOMA VALLEY HOSP,0,249,0.00,0.00,12.03,general medical/surgical care
+SONORA REGIONAL MED CTR,3,1262,2.38,0.49,6.95,general medical/surgical care
+SONORA REGIONAL MED CTR CAMPUS #1,,,,,,general medical/surgical care
+SONORA REGIONAL MED CTR CAMPUS #2,,,,,,general medical/surgical care
+ST BERNARDINE MED CTR,6,8493,0.71,0.26,1.54,general medical/surgical care
+"ST ELIZABETH COMMUNITY HOSP, RED BLUFF",1,403,2.48,0.06,13.83,general medical/surgical care
+"ST HELENA HOSP, CLEARLAKE",0,428,0.00,0.00,7.00,general medical/surgical care
+"ST HELENA HOSP, ST HELENA",0,1951,0.00,0.00,1.54,general medical/surgical care
+"ST JOHN'S PLEASANT VALLEY HOSP, ARILLO",0,1243,0.00,0.00,2.41,general medical/surgical care
+"ST JOHN'S REGIONAL MED CTR, OXNARD",1,1047,0.96,0.02,5.32,general medical/surgical care
+ST JOSEPH HOSP EUREKA,,,,,,general medical/surgical care
+"ST JOSEPH HOSP, EUREKA",0,2433,0.00,0.00,1.23,general medical/surgical care
+"ST JOSEPH HOSP, ORANGE",0,72,0.00,0.00,41.61,general medical/surgical care
+ST JOSEPH'S MED CTR OF STOCKTON,1,6079,0.16,0.00,0.92,general medical/surgical care
+"ST JUDE MED CTR, FULLERTON",2,4697,0.43,0.05,1.54,general medical/surgical care
+"ST MARY MED CTR, APPLE VALLEY",0,1347,0.00,0.00,2.22,general medical/surgical care
+"ST MARY MED CTR, LONG BEACH",4,1235,3.24,0.88,8.29,general medical/surgical care
+"ST MARY'S MED CTR, SAN FRANCISCO",0,1874,0.00,0.00,1.60,general medical/surgical care
+"ST ROSE HOSP, HAYWARD",1,2130,0.47,0.01,2.62,general medical/surgical care
+"STANFORD HOSP, STANFORD",1,2034,0.49,0.01,2.74,general medical/surgical care
+"SUTTER AMADOR HOSP, JACKSON",0,1164,0.00,0.00,2.57,general medical/surgical care
+"SUTTER AUBURN FAITH HOSP, AUBURN",0,1912,0.00,0.00,1.57,general medical/surgical care
+"SUTTER DAVIS HOSPITAL, DAVIS",0,792,0.00,0.00,3.78,general medical/surgical care
+SUTTER EAST BAY HOSPS CTR,13,6906,1.88,1.00,3.22,general medical/surgical care
+"ALTA BATES SUMMIT MED CTR, ALTA BATES CAMPUS, BERKELEY",,,,,,general medical/surgical care
+"ALTA BATES SUMMIT MED CTR, HERRICK CAMPUS, BERKELEY",,,,,,general medical/surgical care
+SUTTER EAST BAY HOSPS CTR,7,10810,0.65,0.26,1.33,general medical/surgical care
+"ALTA BATES SUMMIT MED CTR, OAKLAND",,,,,,general medical/surgical care
+"ALTA BATES SUMMIT MED CTR, SUMMIT CAMPUS, OAKLAND",,,,,,general medical/surgical care
+SUTTER HEALTH SACRAMENTO SIERRA REGION,0,10551,0.00,0.00,0.28,general medical/surgical care
+"SUTTER GENERAL HOSP, SACRAMENTO",,,,,,general medical/surgical care
+"SUTTER MEMORIAL HOSP, SACRAMENTO",,,,,,general medical/surgical care
+"SUTTER LAKESIDE HOSP, LAKEPORT",0,571,0.00,0.00,5.25,general medical/surgical care
+SUTTER MATERNITY & SURGERY CTR OF SANTA CRUZ,0,80,0.00,0.00,37.45,general medical/surgical care
+"SUTTER MED CTR, CASTRO VALLEY",4,2557,1.56,0.43,4.01,general medical/surgical care
+"EDEN MED CTR, CASTRO VALLEY",,,,,,general medical/surgical care
+SAN LEANDRO HOSP,,,,,,general medical/surgical care
+SUTTER MED CTR OF SANTA ROSA,1,1784,0.56,0.01,3.12,general medical/surgical care
+SUTTER ROSEVILLE MED CTR,0,1295,0.00,0.00,2.31,general medical/surgical care
+"SUTTER SOLANO MED CTR, VALLEJO",0,858,0.00,0.00,3.49,general medical/surgical care
+SUTTER TRACY COMMUNITY HOSP,0,505,0.00,0.00,5.93,general medical/surgical care
+SUTTER WEST BAY HOSPS,,,,,,general medical/surgical care
+"CALIFORNIA PACIFIC MED CTR, DAVIES CAM HOSP, S F",2,2166,0.92,0.11,3.34,general medical/surgical care
+SUTTER WEST BAY HOSPS,5,12441,0.40,0.13,0.94,general medical/surgical care
+"CALIFORNIA PACIFIC MED CTR, CA WEST CAM HOSP, S F",,,,,,general medical/surgical care
+"CALIFORNIA PACIFIC MED CTR, PACIFIC CAM HOSP, S F",,,,,,general medical/surgical care
+"TAHOE FOREST HOSP, TRUCKEE",0,13,,,,general medical/surgical care
+"TEHACHAPI HOSP, TEHACHAPI",0,12,,,,general medical/surgical care
+"TEMPLE COMMUNITY HOSP, LOS ANGELES",1,597,1.68,0.04,9.33,general medical/surgical care
+"TORRANCE MEMORIAL MED CTR, TORRANCE",0,5318,0.00,0.00,0.56,general medical/surgical care
+"TRI-CITY MED CTR, OCEANSIDE",0,1259,0.00,0.00,2.38,general medical/surgical care
+"TRI-CITY REGIONAL MED CTR, HAWAIIAN GARDENS",0,717,0.00,0.00,4.18,general medical/surgical care
+"TRINITY HOSP, WEAVERVILLE",0,200,0.00,0.00,14.98,general medical/surgical care
+TULARE REGIONAL MEDICAL CTR,6,2820,2.13,0.78,4.63,general medical/surgical care
+"TWIN CITIES COMMUNITY HOSP, TEMPLETON",0,1029,0.00,0.00,2.91,general medical/surgical care
+"UKIAH VALLEY MED CTR/HOSP DRIVE, UKIAH",0,719,0.00,0.00,4.17,general medical/surgical care
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",10,10596,0.94,0.45,1.74,general medical/surgical care
+"UNIVERSAL HEALTH SERVICES OF RANCHO SPRINGS, INC.",1,3484,0.29,0.01,1.60,general medical/surgical care
+"SOUTHWEST HEALTHCARE SYSTEMS, MURRIETA",,,,,,general medical/surgical care
+"SOUTHWEST HEALTHCARE SYSTEMS, WILDOMAR",,,,,,general medical/surgical care
+"UNIVERSITY OF CALIFORNIA IRVINE MED CTR, ORANGE",10,8610,1.16,0.56,2.14,general medical/surgical care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",21,17906,1.17,0.73,1.79,general medical/surgical care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO MED CTR",,,,,,general medical/surgical care
+"UCSD-LA JOLLA, JOHN M.& SALLY B. THORNTON HOSP",,,,,,general medical/surgical care
+"VALLEY PRESBYTERIAN HOSP, VAN NUYS",7,3721,1.88,0.76,3.88,general medical/surgical care
+"VERDUGO HILLS HOSP, GLENDALE",0,334,0.00,0.00,8.97,general medical/surgical care
+"WASHINGTON HOSP, FREMONT",8,4229,1.89,0.82,3.73,general medical/surgical care
+WATSONVILLE COMMUNITY HOSP,0,1355,0.00,0.00,2.21,general medical/surgical care
+"WEST ANAHEIM MED CTR, ANAHEIM",0,437,0.0,0.00,6.86,general medical/surgical care
+WEST HILLS HOSP AND MED CTR,3,2695,1.1,0.23,3.25,general medical/surgical care
+WESTERN MED CTR ANAHEIM,0,490,0.0,0.00,6.11,general medical/surgical care
+WESTERN MED CTR SANTA ANA,0,833,0.0,0.00,3.60,general medical/surgical care
+WOODLAND MEMORIAL HOSP,0,1236,0.0,0.00,2.42,general medical/surgical care
+STATE OF CALIFORNIA POOLED DATA,98,185289,0.53,,,general surgical care
+"ALVARADO HOSP, LLC",1,127,7.87,0.20,43.87,general surgical care
+"ALVARADO HOSP MED CTR, CAMPUS #1, SAN DIEGO",,,,,,general surgical care
+"ALVARADO HOSP MED CTR, CAMPUS #2, SAN DIEGO",,,,,,general surgical care
+"ARROWHEAD RGN MED CTR, COLTON",1,1111,0.90,0.02,5.01,general surgical care
+"BARTON MEMORIAL HOSP, SOUTH LAKE TAHOE",0,126,0.00,0.00,23.78,general surgical care
+"CEDARS-SINAI MED CTR, LOS ANGELES",1,14652,0.07,0.00,0.38,general surgical care
+CLOVIS COMMUNITY MED CTR,2,1241,1.61,0.20,5.82,general surgical care
+"COMMUNITY MEMORIAL HOSP, SAN BUENAVENTURA, VENTURA",0,502,0.00,0.00,5.97,general surgical care
+"CONTRA COSTA REGIONAL MED CTR, MARTINEZ",1,1894,0.53,0.01,2.94,general surgical care
+COUNTY OF VENTURA,1,497,2.01,0.05,11.21,general surgical care
+VENTURA COUNTY MED CTR,,,,,,general surgical care
+"VENTURA COUNTY MED CTR, SANTA PAULA HOSP",,,,,,general surgical care
+"DAMERON HOSP, STOCKTON",1,671,1.49,0.04,8.30,general surgical care
+DELANO REGIONAL MED CTR,0,14,,,,general surgical care
+"DESERT REGIONAL MED CTR, PALM SPRINGS",0,2046,0.00,0.00,1.46,general surgical care
+DIGNITY HEALTH,0,1266,0.00,0.00,2.37,general surgical care
+"DOMINICAN HOSP CAMPUS #1, SANTA CRUZ",,,,,,general surgical care
+"DOMINICAN HOSP CAMPUS #2, SANTA CRUZ",,,,,,general surgical care
+DIGNITY HEALTH,1,2544,0.39,0.01,2.19,general surgical care
+"MERCY HOSP, BAKERSFIELD",,,,,,general surgical care
+"MERCY SOUTHWEST HOSP, BAKERSFIELD",,,,,,general surgical care
+"DOCTORS MED CTR, MODESTO",1,3026,0.33,0.01,1.84,general surgical care
+"DOCTORS MED CTR, SAN PABLO",2,152,13.16,1.59,47.53,general surgical care
+DOWNEY REGIONAL MED CTR,2,1003,1.99,0.24,7.20,general surgical care
+"EISENHOWER MED CTR, RANCHO MIRAGE",0,2036,0.00,0.00,1.47,general surgical care
+EL CAMINO HOSP,,,,,,general surgical care
+"EL CAMINO HOSP, LOS GATOS",0,266,0.00,0.00,11.26,general surgical care
+"EL CAMINO HOSP, MOUNTAIN VIEW",0,888,0.00,0.00,3.37,general surgical care
+"EMANUEL MED CTR INC, TURLOCK",2,734,2.72,0.33,9.84,general surgical care
+ENLOE MED CTR,0,2281,0.00,0.00,1.31,general surgical care
+"ENLOE MED CTR-COHASSET, CHICO",,,,,,general surgical care
+"ENLOE MED CTR-ESPLANADE, CHICO",,,,,,general surgical care
+"ENLOE REHABILITATION CTR, CHICO",,,,,,general surgical care
+"FEATHER RIVER HOSP, PARADISE",1,587,1.70,0.04,9.49,general surgical care
+FOUNTAIN VALLEY REGIONAL HOSP & MED CTR,0,1416,0.00,0.00,2.12,general surgical care
+FOUNTAIN VALLEY REGIONAL HOSP & MED CTR,,,,,,general surgical care
+FREMONT-RIDEOUT HEALTH GROUP,4,909,4.40,1.20,11.27,general surgical care
+"FREMONT MED CTR, YUBA CITY",,,,,,general surgical care
+"RIDEOUT MEMORIAL HOSP, MARYSVILLE",,,,,,general surgical care
+FRESNO HEART AND SURGICAL HOSP,1,830,1.20,0.03,6.71,general surgical care
+FRESNO SURGICAL HOSP,0,8,,,,general surgical care
+"GARFIELD MED CTR, MONTEREY PARK",0,331,0.00,0.00,9.05,general surgical care
+GLENDALE ADVENTIST MED CTR,2,1363,1.47,0.18,5.30,general surgical care
+"GOOD SAMARITAN HOSP, LP",0,1496,0.00,0.00,2.00,general surgical care
+"MISSION OAKS HOSP, LOS GATOS",,,,,,general surgical care
+"GOOD SAMARITAN HOSP, SAN JOSE",,,,,,general surgical care
+HOAG ORTHOPEDIC HOSPITAL,0,69,0.00,0.00,43.42,general surgical care
+HOSPITAL COMMITTEE AREA LIVERMORE PLEASANTON,0,562,0.00,0.00,5.33,general surgical care
+"VALLEYCARE MEDICAL CENTER, PLEASANTON",,,,,,general surgical care
+"VALLEY MEMORIAL HOSPITAL, LIVERMORE",,,,,,general surgical care
+"HUNTINGTON MEMORIAL HOSP, PASADENA",0,2674,0.00,0.00,1.12,general surgical care
+"JOHN F. KENNEDY MEMORIAL HOSP, INDIO",0,429,0.00,0.00,6.98,general surgical care
+"JOHN MUIR MED CTR, CONCORD",0,1026,0.00,0.00,2.92,general surgical care
+"JOHN MUIR MED CTR, WALNUT CREEK",0,1959,0.00,0.00,1.53,general surgical care
+"KAISER FOUNDATION HOSP, LOS ANGELES",1,1949,0.51,0.01,2.86,general surgical care
+"KAISER FOUNDATION HOSP, REDWOOD CITY",0,641,0.00,0.00,4.67,general surgical care
+KAISER FOUNDATION HOSP-SAN JOSE,0,228,0.00,0.00,13.14,general surgical care
+KAISER FOUNDATION HOSP-SANTA CLARA,1,1472,0.68,0.02,3.79,general surgical care
+"KAISER FOUNDATION HOSP SOUTH BAY, HARBOR CITY",2,1998,1.00,0.12,3.62,general surgical care
+"KAISER FOUNDATION HOSP-WEST LA, LOS ANGELES",0,440,0.00,0.00,6.81,general surgical care
+"KAISER FOUNDATION HOSP, WOODLAND HILLS",0,451,0.00,0.00,6.64,general surgical care
+KAISER FOUNDATION HOSPS,,,,,,general surgical care
+"KAISER FOUNDATION HOSP, FONTANA",0,4868,0.00,0.00,0.62,general surgical care
+KAISER FOUNDATION HOSPS,0,1529,0.00,0.00,1.96,general surgical care
+"KAISER FOUNDATION HOSP, OAKLAND/RICHMOND",,,,,,general surgical care
+"KAISER FOUNDATION HOSP, RICHMOND CAMPUS",,,,,,general surgical care
+"KAWEAH DELTA MED CTR, VISALIA",4,2222,1.80,0.49,4.61,general surgical care
+"KECK HOSP OF USC, LOS ANGELES",1,1887,0.53,0.01,2.95,general surgical care
+"LAC/HARBOR-UCLA MED CTR, TORRANCE",1,999,1.00,0.03,5.58,general surgical care
+"LAC/RANCHO LOS AMIGOS NATIONAL REHAB CTR, DOWNEY",0,2911,0.00,0.00,1.03,general surgical care
+LOMA LINDA UNIVERSITY MED CTR,6,2187,2.74,1.01,5.97,general surgical care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,general surgical care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,general surgical care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,general surgical care
+LOMA LINDA UNIVERSITY MEDICAL CENTER - MURRIETA,0,481,0.00,0.00,6.23,general surgical care
+"LONG BEACH MEMORIAL MED CTR, LONG BEACH",1,1705,0.59,0.01,3.27,general surgical care
+LOS ALAMITOS MED CTR,0,382,0.00,0.00,7.84,general surgical care
+LOS ROBLES REGIONAL MED CTR,0,1136,0.00,0.00,2.64,general surgical care
+"LOS ROBLES HOSP & MED CTR, E , THOUSAND OAKS",,,,,,general surgical care
+"LOS ROBLES HOSP & MED CTR, THOUSAND OAKS",,,,,,general surgical care
+THOUSAND OAKS SURGICAL HOSPITAL,,,,,,general surgical care
+"MARIN GENERAL HOSP, GREENBRAE",2,1019,1.96,0.24,7.09,general surgical care
+MARINA DEL REY HOSP,0,67,0.00,0.00,44.71,general surgical care
+"MEMORIAL MED CTR, MODESTO",0,4290,0.00,0.00,0.70,general surgical care
+MENLO PARK SURGICAL HOSP,0,2,,,,general surgical care
+"MERCY GENERAL HOSP, SACRAMENTO",0,1988,0.00,0.00,1.51,general surgical care
+MERCY MED CTR MERCED,2,1063,1.88,0.23,6.80,general surgical care
+MERCY MED CTR REDDING,1,1024,0.98,0.02,5.44,general surgical care
+"MERCY SAN JUAN MED CTR, CARMICHAEL",1,1288,0.78,0.02,4.33,general surgical care
+METHODIST HOSP OF SACRAMENTO,1,2060,0.49,0.01,2.70,general surgical care
+"METHODIST HOSP OF SOUTHERN CA, ARCADIA",1,937,1.07,0.03,5.95,general surgical care
+NORTHBAY HEALTHCARE GROUP,,,,,,general surgical care
+"NORTHBAY MED CTR, FAIRFIELD",1,888,1.13,0.03,6.27,general surgical care
+"O'CONNOR HOSP, SAN JOSE",0,969,0.00,0.00,3.09,general surgical care
+"OLYMPIA MED CTR, LOS ANGELES",0,331,0.00,0.00,9.05,general surgical care
+"ORANGE COAST MEMORIAL MED CTR, FOUNTAIN VALLEY",0,468,0.00,0.00,6.40,general surgical care
+PACIFIC HOSP OF LONG BEACH,0,45,,,,general surgical care
+PALOMAR HEALTH,1,2331,0.43,0.01,2.39,general surgical care
+"PALOMAR HEALTH DOWNTOWN CAMPUS, ESCONDIDO",,,,,,general surgical care
+"PALOMAR MED CTR, ESCONDIDO",,,,,,general surgical care
+"PARKVIEW COMMUNITY HOSP MED CTR, RIVERSIDE",0,472,0.00,0.00,6.35,general surgical care
+"PRESBYTERIAN INTERCOMMUNITY HOSP, WHITTIER",0,1355,0.00,0.00,2.21,general surgical care
+"PROVIDENCE HOLY CROSS MED CTR, MISSION HILLS",0,585,0.00,0.00,5.12,general surgical care
+"PROVIDENCE SAINT JOSEPH MED CTR, BURBANK",3,1065,2.82,0.58,8.23,general surgical care
+"QUEEN OF THE VALLEY MED CTR, NAPA",0,11,,,,general surgical care
+REDLANDS COMMUNITY HOSP,2,767,2.61,0.32,9.42,general surgical care
+RIVERSIDE COMMUNITY HOSP,1,4850,0.21,0.01,1.15,general surgical care
+"RIVERSIDE COUNTY REGIONAL MED CTR, MORENO VALLEY",2,3750,0.53,0.06,1.93,general surgical care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",4,2571,1.56,0.42,3.98,general surgical care
+"SAINT AGNES MED CTR, FRESNO",1,1024,0.98,0.02,5.44,general surgical care
+"SAINT JOHN'S HEALTH CTR, SANTA MONICA",0,546,0.00,0.00,5.49,general surgical care
+SAN FRANCISCO GENERAL HOSP,0,1657,0.00,0.00,1.81,general surgical care
+"SAN JOAQUIN COMMUNITY HOSP, BAKERSFIELD",1,934,1.07,0.03,5.97,general surgical care
+SANTA BARBARA COTTAGE HOSPITAL,0,501,0.00,0.00,5.98,general surgical care
+SANTA BARBARA COTTAGE HOSP,,,,,,general surgical care
+REHABILITATION INSTITUTE AT SANTA BARBARA,,,,,,general surgical care
+"SANTA CLARA VALLEY MED CTR, SAN JOSE",0,2421,0.00,0.00,1.24,general surgical care
+"SANTA MONICA, UCLA MED CTR AND ORTHOPAEDIC",1,2067,0.48,0.01,2.70,general surgical care
+SANTA ROSA MEMORIAL HOSP,0,1536,0.00,0.00,1.95,general surgical care
+"SCRIPPS GREEN HOSP, LA JOLLA",0,1002,0.00,0.00,2.99,general surgical care
+SCRIPPS HEALTH,11,7207,1.53,0.76,2.73,general surgical care
+"SCRIPPS MERCY HOSP, SAN DIEGO",,,,,,general surgical care
+SCRIPPS MERCY HOSP CHULA VISTA,,,,,,general surgical care
+"SCRIPPS MEMORIAL HOSP, ENCINITAS",0,1490,0.00,0.00,2.01,general surgical care
+"SCRIPPS MEMORIAL HOSP, LA JOLLA",3,2774,1.08,0.22,3.16,general surgical care
+SETON MED CTR,0,798,0.00,0.00,3.75,general surgical care
+"SETON MED CTR-COASTSIDE, MOSS BEACH",,,,,,general surgical care
+"SETON MED CTR, DALY CITY",,,,,,general surgical care
+"SHARP MEMORIAL HOSP, SAN DIEGO",0,3893,0.00,0.00,0.77,general surgical care
+"SIERRA NEVADA MEMORIAL HOSP, GRASS VALLEY",1,559,1.79,0.05,9.97,general surgical care
+ST BERNARDINE MED CTR,0,1062,0.00,0.00,2.82,general surgical care
+"ST JOSEPH HOSP, ORANGE",1,2450,0.41,0.01,2.27,general surgical care
+"ST JUDE MED CTR, FULLERTON",0,106,0.00,0.00,28.26,general surgical care
+"ST MARY'S MED CTR, SAN FRANCISCO",0,1127,0.00,0.00,2.66,general surgical care
+"STANFORD HOSP, STANFORD",4,10682,0.37,0.10,0.96,general surgical care
+"STANISLAUS SURGICAL HOSP, MODESTO",0,9,,,,general surgical care
+"SUTTER DELTA MED CTR, ANTIOCH",0,250,0.00,0.00,11.98,general surgical care
+SUTTER HEALTH SACRAMENTO SIERRA REGION,0,1981,0.00,0.00,1.51,general surgical care
+"SUTTER GENERAL HOSP, SACRAMENTO",,,,,,general surgical care
+"SUTTER MEMORIAL HOSP, SACRAMENTO",,,,,,general surgical care
+"SUTTER MED CTR, CASTRO VALLEY",0,690,0.00,0.00,4.34,general surgical care
+"EDEN MED CTR, CASTRO VALLEY",,,,,,general surgical care
+SAN LEANDRO HOSP,,,,,,general surgical care
+SUTTER ROSEVILLE MED CTR,0,893,0.00,0.00,3.35,general surgical care
+"SUTTER SURGICAL HOSP, NORTH VALLEY, YUBA CITY",0,8,,,,general surgical care
+"TORRANCE MEMORIAL MED CTR, TORRANCE",0,1207,0.00,0.00,2.48,general surgical care
+"TRI-CITY MED CTR, OCEANSIDE",0,927,0.00,0.00,3.23,general surgical care
+"UHS-CORONA, INC.",0,373,0.00,0.00,8.03,general surgical care
+"CORONA REGIONAL MED CTR, CAMPUS #1",,,,,,general surgical care
+"CORONA REGIONAL MED CTR, CAMPUS #2",,,,,,general surgical care
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",8,10966,0.73,0.31,1.44,general surgical care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",1,9272,0.11,0.00,0.60,general surgical care
+"UCSF MED CTR, SAN FRANCISCO",,,,,,general surgical care
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,general surgical care
+"VICTOR VALLEY COMMUNITY HOSP, VICTORVILLE",0,42,,,,general surgical care
+"WASHINGTON HOSP, FREMONT",2,1233,1.6,0.20,5.86,general surgical care
+"WEST ANAHEIM MED CTR, ANAHEIM",1,293,3.4,0.09,19.02,general surgical care
+WESTERN MED CTR SANTA ANA,0,386,0.0,0.00,7.76,general surgical care
+"WHITE MEMORIAL MED CTR, LOS ANGELES",0,505,0.0,0.00,5.93,general surgical care
+STATE OF CALIFORNIA POOLED DATA,188,236062,0.80,,,long term acute care
+"BARLOW RESPIRATORY HOSP, LOS ANGELES",21,6925,3.03,1.88,4.64,long term acute care
+"KENTFIELD REHAB & SPECIALTY HOSP, KENTFIELD",9,11434,0.79,0.36,1.49,long term acute care
+"KINDRED HOSP, BALDWIN PARK",1,7360,0.14,0.00,0.76,long term acute care
+"KINDRED HOSP, BREA",3,10136,0.30,0.06,0.86,long term acute care
+KINDRED HOSP-LOS ANGELES,28,15912,1.76,1.17,2.54,long term acute care
+"KINDRED HOSP, ONTARIO",4,17495,0.23,0.06,0.59,long term acute care
+"KINDRED HOSP RANCHO, RANCHO CUCAMONGA",18,9800,1.84,1.09,2.90,long term acute care
+"KINDRED HOSP RIVERSIDE, PERRIS",4,7322,0.55,0.15,1.40,long term acute care
+"KINDRED HOSP-SACRAMENTO, FOLSOM",7,8149,0.86,0.35,1.77,long term acute care
+KINDRED HOSP-SAN DIEGO,6,7975,0.75,0.28,1.64,long term acute care
+"KINDRED HOSP-SAN FRANCISCO BAY AREA, SAN LEANDRO",14,8527,1.64,0.90,2.75,long term acute care
+"KINDRED HOSP SOUTH BAY, GARDENA",5,16452,0.30,0.10,0.71,long term acute care
+"KINDRED HOSP, WESTMINSTER",16,23436,0.68,0.39,1.11,long term acute care
+MONROVIA MEMORIAL HOSP,9,5795,1.55,0.71,2.95,long term acute care
+"NEWPORT SPECIALTY HOSP, TUSTIN",0,4269,0.00,0.00,0.70,long term acute care
+"NORTHERN CA REHAB HOSP, REDDING",8,9405,0.85,0.37,1.68,long term acute care
+"PROMISE HOSP OF EAST LOS ANGELES, L.P.",,,,,,long term acute care
+"PROMISE HOSP OF EAST LA-SUBURBAN CAMPUS, PARAMOUNT",3,21445,0.14,0.03,0.41,long term acute care
+"PROMISE HOSP OF EAST LA-EAST L.A CAMPUS, LOS ANGELES",4,4593,0.87,0.24,2.23,long term acute care
+PROMISE HOSP OF SAN DIEGO,7,4193,1.67,0.67,3.44,long term acute care
+"SOUTHERN CALIFORNIA SPECIALTY CARE, INC.",,,,,,long term acute care
+"KINDRED HOSP, LA MIRADA",2,9198,0.22,0.03,0.79,long term acute care
+"KINDRED HOSP-SAN GABRIEL VALLEY, WEST COVINA",0,5178,0.00,0.00,0.58,long term acute care
+"KINDRED HOSP, SANTA ANA",6,9723,0.62,0.23,1.34,long term acute care
+"VIBRA HOSP OF SAN DIEGO, SAN DIEGO",13,11340,1.2,0.61,1.96,long term acute care
+STATE OF CALIFORNIA POOLED DATA,11,33930,0.32,,,general rehabilitation care
+ALAMEDA COUNTY MED CTR,0,438,0.00,0.00,6.84,general rehabilitation care
+"ALAMEDA COUNTY MED CTR, OAKLAND",,,,,,general rehabilitation care
+"ALAMEDA COUNTY MED CTR-FAIRMONT CAMPUS, SAN LEANDRO",,,,,,general rehabilitation care
+ALHAMBRA HOSP MED CTR,0,163,0.00,0.00,18.38,general rehabilitation care
+"ALVARADO HOSP, LLC",1,163,6.13,0.16,34.18,general rehabilitation care
+"ALVARADO HOSP MED CTR, CAMPUS #1, SAN DIEGO",,,,,,general rehabilitation care
+"ALVARADO HOSP MED CTR, CAMPUS #2, SAN DIEGO",,,,,,general rehabilitation care
+"BALLARD REHAB HOSP, SAN BERNARDINO",0,1050,0.00,0.00,2.85,general rehabilitation care
+"BROTMAN MED CTR, CULVER CITY",0,658,0.00,0.00,4.55,general rehabilitation care
+"CASA COLINA HOSP FOR REHABILITATIVE MEDICINE, POMONA",1,2439,0.41,0.01,2.28,general rehabilitation care
+"CEDARS-SINAI MED CTR, LOS ANGELES",0,798,0.00,0.00,3.75,general rehabilitation care
+"COMMUNITY REGIONAL MED CTR, FRESNO",2,740,2.70,0.33,9.76,general rehabilitation care
+"DESERT REGIONAL MED CTR, PALM SPRINGS",0,124,0.00,0.00,24.16,general rehabilitation care
+DIGNITY HEALTH,0,533,0.00,0.00,5.62,general rehabilitation care
+"DOMINICAN HOSP CAMPUS #1, SANTA CRUZ",,,,,,general rehabilitation care
+"DOMINICAN HOSP CAMPUS #2, SANTA CRUZ",,,,,,general rehabilitation care
+"EISENHOWER MED CTR, RANCHO MIRAGE",0,450,0.00,0.00,6.66,general rehabilitation care
+"EL CAMINO HOSP, LOS GATOS",0,401,0.00,0.00,7.47,general rehabilitation care
+ENLOE MED CTR,0,841,0.00,0.00,3.56,general rehabilitation care
+"ENLOE MED CTR-COHASSET, CHICO",,,,,,general rehabilitation care
+"ENLOE MED CTR-ESPLANADE, CHICO",,,,,,general rehabilitation care
+"ENLOE REHABILITATION CTR, CHICO",,,,,,general rehabilitation care
+"GARFIELD MED CTR, MONTEREY PARK",0,246,0.00,0.00,12.18,general rehabilitation care
+GLENDALE ADVENTIST MED CTR,0,336,0.00,0.00,8.92,general rehabilitation care
+GLENDALE MEMORIAL HOSP AND HEALTH CTR,0,263,0.00,0.00,11.39,general rehabilitation care
+"GOOD SAMARITAN HOSP, LP",0,173,0.00,0.00,17.32,general rehabilitation care
+"MISSION OAKS HOSP, LOS GATOS",,,,,,general rehabilitation care
+"GOOD SAMARITAN HOSP, SAN JOSE",,,,,,general rehabilitation care
+"GROSSMONT HOSP, LA MESA",0,391,0.00,0.00,7.66,general rehabilitation care
+HEALTHSOUTH BAKERSFIELD REHABILITATION HOSP,0,3092,0.00,0.00,0.97,general rehabilitation care
+HEALTHSOUTH TUSTIN REHABILITATION HOSP,0,819,0.00,0.00,3.66,general rehabilitation care
+"HENRY MAYO NEWHALL MEMORIAL HOSP, VALENCIA",0,84,0.00,0.00,35.66,general rehabilitation care
+"HOLLYWOOD PRESBYTERIAN MED CTR, LOS ANGELES",0,326,0.00,0.00,9.19,general rehabilitation care
+"HUNTINGTON MEMORIAL HOSP, PASADENA",0,261,0.00,0.00,11.48,general rehabilitation care
+"JOHN MUIR MED CTR, WALNUT CREEK",0,459,0.00,0.00,6.53,general rehabilitation care
+"KAISER FOUNDATION HOSP & REHAB. CTR, VALLEJO",0,193,0.00,0.00,15.52,general rehabilitation care
+"KAWEAH DELTA MED CTR, VISALIA",0,314,0.00,0.00,9.54,general rehabilitation care
+"LAC/RANCHO LOS AMIGOS NATIONAL REHAB CTR, DOWNEY",0,2369,0.00,0.00,1.26,general rehabilitation care
+"LODI MEMORIAL HOSP ASSOCIATION, INC.",0,247,0.00,0.00,12.13,general rehabilitation care
+LODI MEMORIAL HOSP 1RH,,,,,,general rehabilitation care
+LODI MEMORIAL HOSP-WEST,,,,,,general rehabilitation care
+LOMA LINDA UNIVERSITY MED CTR,0,875,0.00,0.00,3.42,general rehabilitation care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,general rehabilitation care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,general rehabilitation care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,general rehabilitation care
+"LONG BEACH MEMORIAL MED CTR, LONG BEACH",3,671,4.47,0.92,13.07,general rehabilitation care
+LOS ROBLES REGIONAL MED CTR,0,226,0.00,0.00,13.26,general rehabilitation care
+"LOS ROBLES HOSP & MED CTR, E , THOUSAND OAKS",,,,,,general rehabilitation care
+"LOS ROBLES HOSP & MED CTR, THOUSAND OAKS",,,,,,general rehabilitation care
+THOUSAND OAKS SURGICAL HOSPITAL,,,,,,general rehabilitation care
+"MARIAN REGIONAL MEDICAL CENTER, ARROYO GRANDE",0,207,0.00,0.00,14.47,general rehabilitation care
+"MERCY GENERAL HOSP, SACRAMENTO",0,278,0.00,0.00,10.78,general rehabilitation care
+"METHODIST HOSP OF SOUTHERN CA, ARCADIA",1,80,12.50,0.32,69.65,general rehabilitation care
+MISSION HOSP REGIONAL MED CTR,,,,,,general rehabilitation care
+"MISSION HOSP REGIONAL MED CTR, MISSION VIEJO",0,632,0.00,0.00,4.74,general rehabilitation care
+NORTHRIDGE HOSP MED CTR,0,321,0.00,0.00,9.33,general rehabilitation care
+PACIFIC ALLIANCE MED CTR,0,202,0.00,0.00,14.83,general rehabilitation care
+PALOMAR HEALTH,0,719,0.00,0.00,4.17,general rehabilitation care
+"PALOMAR HEALTH DOWNTOWN CAMPUS, ESCONDIDO",,,,,,general rehabilitation care
+"PALOMAR MED CTR, ESCONDIDO",,,,,,general rehabilitation care
+"PARADISE VALLEY HOSP, NATIONAL CITY",0,144,0.00,0.00,20.80,general rehabilitation care
+"PROVIDENCE HOLY CROSS MED CTR, MISSION HILLS",0,255,0.00,0.00,11.75,general rehabilitation care
+"PROVIDENCE LITTLE COMPANY OF MARY MED CTR, SAN PEDRO",0,360,0.00,0.00,8.32,general rehabilitation care
+"PROVIDENCE SAINT JOSEPH MED CTR, BURBANK",0,307,0.00,0.00,9.76,general rehabilitation care
+"QUEEN OF THE VALLEY MED CTR, NAPA",0,282,0.00,0.00,10.62,general rehabilitation care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",0,303,0.00,0.00,9.89,general rehabilitation care
+"SAINT FRANCIS MEMORIAL HOSP, SAN FRANCISCO",1,296,3.38,0.09,18.82,general rehabilitation care
+"SAINT VINCENT MED CTR, LOS ANGELES",1,155,6.45,0.16,35.95,general rehabilitation care
+"SAN JOAQUIN VALLEY REHAB HOSP, FRESNO",0,854,0.00,0.00,3.51,general rehabilitation care
+SANTA BARBARA COTTAGE HOSPITAL,0,675,0.00,0.00,4.44,general rehabilitation care
+SANTA BARBARA COTTAGE HOSP,,,,,,general rehabilitation care
+REHABILITATION INSTITUTE AT SANTA BARBARA,,,,,,general rehabilitation care
+"SANTA CLARA VALLEY MED CTR, SAN JOSE",0,689,0.00,0.00,4.35,general rehabilitation care
+SANTA ROSA MEMORIAL HOSP,0,318,0.00,0.00,9.42,general rehabilitation care
+"SCRIPPS MEMORIAL HOSP, ENCINITAS",0,599,0.00,0.00,5.00,general rehabilitation care
+"SHARP MEMORIAL HOSP, SAN DIEGO",0,940,0.00,0.00,3.19,general rehabilitation care
+SONORA REGIONAL MED CTR,0,680,0.00,0.00,4.41,general rehabilitation care
+SONORA REGIONAL MED CTR CAMPUS #1,,,,,,general rehabilitation care
+SONORA REGIONAL MED CTR CAMPUS #2,,,,,,general rehabilitation care
+"ST JOHN'S REGIONAL MED CTR, OXNARD",1,448,2.2,0.06,12.44,general rehabilitation care
+ST JOSEPH HOSP EUREKA,,,,,,general rehabilitation care
+"THE GENERAL HOSP, EUREKA",0,181,0.0,0.00,16.55,general rehabilitation care
+"ST JUDE MED CTR, FULLERTON",0,444,0.0,0.00,6.75,general rehabilitation care
+"ST MARY MED CTR, LONG BEACH",0,538,0.0,0.00,5.57,general rehabilitation care
+"ST MARY'S MED CTR, SAN FRANCISCO",0,625,0.0,0.00,4.79,general rehabilitation care
+"TRI-CITY MED CTR, OCEANSIDE",0,217,0.0,0.00,13.81,general rehabilitation care
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",0,1203,0.0,0.00,2.49,general rehabilitation care
+"UNIVERSITY OF CALIFORNIA IRVINE MED CTR, ORANGE",0,195,0.0,0.00,15.36,general rehabilitation care
+"VALLEY PRESBYTERIAN HOSP, VAN NUYS",0,373,0.0,0.00,8.03,general rehabilitation care
+"WHITE MEMORIAL MED CTR, LOS ANGELES",0,267,0.0,0.00,11.22,general rehabilitation care
+STATE OF CALIFORNIA POOLED DATA,3,3248,0.92,,,"general labor, delivery, recovery, and post- partum care"
+"AHMC ANAHEIM REGIONAL MED CTR, ANAHEIM",0,35,,,,"general labor, delivery, recovery, and post- partum care"
+"BANNER LASSEN MED CTR, SUSANVILLE",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+BARSTOW COMMUNITY HOSP,0,6,,,,"general labor, delivery, recovery, and post- partum care"
+"CALIFORNIA PACIFIC MED CTR, ST LUKE'S CAMPUS, SAN FRANCISCO",0,11,,,,"general labor, delivery, recovery, and post- partum care"
+"CEDARS-SINAI MED CTR, LOS ANGELES",0,14,,,,"general labor, delivery, recovery, and post- partum care"
+"COMMUNITY HOSP OF THE MONTEREY PENINSULA, MONTEREY",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+COMMUNITY HOSP OF SAN BERNARDINO,0,8,,,,"general labor, delivery, recovery, and post- partum care"
+"COMMUNITY MEMORIAL HOSP, SAN BUENAVENTURA, VENTURA",0,14,,,,"general labor, delivery, recovery, and post- partum care"
+"COMMUNITY REGIONAL MED CTR, FRESNO",0,29,,,,"general labor, delivery, recovery, and post- partum care"
+"DAMERON HOSP, STOCKTON",0,6,,,,"general labor, delivery, recovery, and post- partum care"
+DIGNITY HEALTH,0,4,,,,"general labor, delivery, recovery, and post- partum care"
+"DOMINICAN HOSP CAMPUS #1, SANTA CRUZ",,,,,,"general labor, delivery, recovery, and post- partum care"
+"DOMINICAN HOSP CAMPUS #2, SANTA CRUZ",,,,,,"general labor, delivery, recovery, and post- partum care"
+DOCTORS HOSP OF MANTECA,0,2,,,,"general labor, delivery, recovery, and post- partum care"
+"DOCTORS MED CTR, MODESTO",0,13,,,,"general labor, delivery, recovery, and post- partum care"
+EL CAMINO HOSP,,,,,,"general labor, delivery, recovery, and post- partum care"
+"EL CAMINO HOSP, LOS GATOS",0,5,,,,"general labor, delivery, recovery, and post- partum care"
+"EL CAMINO HOSP, MOUNTAIN VIEW",0,21,,,,"general labor, delivery, recovery, and post- partum care"
+"FOOTHILL PRESBYTERIAN HSP-JOHNSTON MEMORIAL, GLENDORA",0,69,0.00,0.00,43.42,"general labor, delivery, recovery, and post- partum care"
+FOUNTAIN VALLEY REGIONAL HOSP & MED CTR,0,19,,,,"general labor, delivery, recovery, and post- partum care"
+FOUNTAIN VALLEY REGIONAL HOSP & MED CTR,,,,,,"general labor, delivery, recovery, and post- partum care"
+GLENDALE ADVENTIST MED CTR,0,31,,,,"general labor, delivery, recovery, and post- partum care"
+"GOOD SAMARITAN HOSP, LP",0,51,0.00,0.00,58.74,"general labor, delivery, recovery, and post- partum care"
+"MISSION OAKS HOSP, LOS GATOS",,,,,,"general labor, delivery, recovery, and post- partum care"
+"GOOD SAMARITAN HOSP, SAN JOSE",,,,,,"general labor, delivery, recovery, and post- partum care"
+"GROSSMONT HOSP, LA MESA",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+"HUNTINGTON MEMORIAL HOSP, PASADENA",0,10,,,,"general labor, delivery, recovery, and post- partum care"
+"JOHN MUIR MED CTR, WALNUT CREEK",0,22,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP-DOWNEY, BELLFLOWER",0,25,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, FRESNO",0,7,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, LOS ANGELES",0,44,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, REDWOOD CITY",0,11,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, SAN FRANCISCO",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+KAISER FOUNDATION HOSP-SANTA CLARA,0,22,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, SANTA ROSA",0,4,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP SOUTH BAY, HARBOR CITY",0,37,,,,"general labor, delivery, recovery, and post- partum care"
+KAISER FOUNDATION HOSP-SOUTH SACRAMENTO,0,5,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP & REHAB. CTR, VALLEJO",0,2,,,,"general labor, delivery, recovery, and post- partum care"
+KAISER FOUNDATION HOSP-WALNUT CREEK,0,12,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, WOODLAND HILLS",0,36,,,,"general labor, delivery, recovery, and post- partum care"
+KAISER FOUNDATION HOSPS,,,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, FONTANA",0,3,,,,"general labor, delivery, recovery, and post- partum care"
+KAISER FOUNDATION HOSPS,0,4,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, MODESTO",,,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, MANTECA",,,,,,"general labor, delivery, recovery, and post- partum care"
+KAISER FOUNDATION HOSPS,0,1,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, OAKLAND/RICHMOND",,,,,,"general labor, delivery, recovery, and post- partum care"
+"KAISER FOUNDATION HOSP, RICHMOND CAMPUS",,,,,,"general labor, delivery, recovery, and post- partum care"
+"KERN MED CTR, BAKERSFIELD",0,37,,,,"general labor, delivery, recovery, and post- partum care"
+"LAC+USC MED CTR, LOS ANGELES",1,327,3.06,0.08,17.04,"general labor, delivery, recovery, and post- partum care"
+LOMA LINDA UNIVERSITY MED CTR,0,148,0.00,0.00,20.24,"general labor, delivery, recovery, and post- partum care"
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,"general labor, delivery, recovery, and post- partum care"
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,"general labor, delivery, recovery, and post- partum care"
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,"general labor, delivery, recovery, and post- partum care"
+"LOS ANGELES CO OLIVE VIEW-UCLA MED CTR, SYLMAR",0,4,,,,"general labor, delivery, recovery, and post- partum care"
+LOS ROBLES REGIONAL MED CTR,0,3,,,,"general labor, delivery, recovery, and post- partum care"
+"LOS ROBLES HOSP & MED CTR, E , THOUSAND OAKS",,,,,,"general labor, delivery, recovery, and post- partum care"
+"LOS ROBLES HOSP & MED CTR, THOUSAND OAKS",,,,,,"general labor, delivery, recovery, and post- partum care"
+THOUSAND OAKS SURGICAL HOSPITAL,,,,,,"general labor, delivery, recovery, and post- partum care"
+"LUCILE SALTER PACKARD CHILDREN'S HOSP AT STANFORD, PALO ALTO",0,186,0.00,0.00,16.11,"general labor, delivery, recovery, and post- partum care"
+MARIAN REGIONAL MEDICAL CENTER,,,,,,"general labor, delivery, recovery, and post- partum care"
+MARIAN REGIONAL MEDICAL CENTER,0,14,,,,"general labor, delivery, recovery, and post- partum care"
+"MARIN GENERAL HOSP, GREENBRAE",0,55,0.00,0.00,54.47,"general labor, delivery, recovery, and post- partum care"
+"MARSHALL MED CTR 1-RH, PLACERVILLE",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+"MEMORIAL MED CTR, MODESTO",0,4,,,,"general labor, delivery, recovery, and post- partum care"
+"MERCY GENERAL HOSP, SACRAMENTO",0,6,,,,"general labor, delivery, recovery, and post- partum care"
+MERCY HOSP OF FOLSOM,0,4,,,,"general labor, delivery, recovery, and post- partum care"
+MERCY MED CTR REDDING,0,7,,,,"general labor, delivery, recovery, and post- partum care"
+"MERCY SAN JUAN MED CTR, CARMICHAEL",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+MILLS-PENINSULA HEALTH SERVICES,0,11,,,,"general labor, delivery, recovery, and post- partum care"
+"MILLS HEALTH CTR, SAN MATEO",,,,,,"general labor, delivery, recovery, and post- partum care"
+"MILLS-PENINSULA MED CTR, BURLINGAME",,,,,,"general labor, delivery, recovery, and post- partum care"
+NORTHBAY HEALTHCARE GROUP,,,,,,"general labor, delivery, recovery, and post- partum care"
+"NORTHBAY MED CTR, FAIRFIELD",0,2,,,,"general labor, delivery, recovery, and post- partum care"
+PACIFIC ALLIANCE MED CTR,0,7,,,,"general labor, delivery, recovery, and post- partum care"
+PALOMAR HEALTH,0,3,,,,"general labor, delivery, recovery, and post- partum care"
+"PALOMAR HEALTH DOWNTOWN CAMPUS, ESCONDIDO",,,,,,"general labor, delivery, recovery, and post- partum care"
+"PALOMAR MED CTR, ESCONDIDO",,,,,,"general labor, delivery, recovery, and post- partum care"
+"PARKVIEW COMMUNITY HOSP MED CTR, RIVERSIDE",0,11,,,,"general labor, delivery, recovery, and post- partum care"
+"POMONA VALLEY HOSP MED CTR, POMONA",0,43,,,,"general labor, delivery, recovery, and post- partum care"
+"PROVIDENCE SAINT JOSEPH MED CTR, BURBANK",0,10,,,,"general labor, delivery, recovery, and post- partum care"
+"PROVIDENCE TARZANA MED CTR, TARZANA",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+"QUEEN OF THE VALLEY MED CTR, NAPA",0,37,,,,"general labor, delivery, recovery, and post- partum care"
+REDLANDS COMMUNITY HOSP,0,6,,,,"general labor, delivery, recovery, and post- partum care"
+REGIONAL MED CTR OF SAN JOSE,0,3,,,,"general labor, delivery, recovery, and post- partum care"
+RIVERSIDE COMMUNITY HOSP,0,5,,,,"general labor, delivery, recovery, and post- partum care"
+"RIVERSIDE COUNTY REGIONAL MED CTR, MORENO VALLEY",0,26,,,,"general labor, delivery, recovery, and post- partum care"
+"SAINT AGNES MED CTR, FRESNO",0,11,,,,"general labor, delivery, recovery, and post- partum care"
+SALINAS VALLEY MEMORIAL HOSP,0,71,0.00,0.00,42.19,"general labor, delivery, recovery, and post- partum care"
+SAN FRANCISCO GENERAL HOSP,0,5,,,,"general labor, delivery, recovery, and post- partum care"
+"SAN JOAQUIN COMMUNITY HOSP, BAKERSFIELD",0,17,,,,"general labor, delivery, recovery, and post- partum care"
+"SAN JOAQUIN GENERAL HOSP, FRENCH P",0,17,,,,"general labor, delivery, recovery, and post- partum care"
+"SANTA MONICA, UCLA MED CTR AND ORTHOPAEDIC",0,10,,,,"general labor, delivery, recovery, and post- partum care"
+SANTA ROSA MEMORIAL HOSP,0,3,,,,"general labor, delivery, recovery, and post- partum care"
+"SCRIPPS MEMORIAL HOSP, ENCINITAS",0,21,,,,"general labor, delivery, recovery, and post- partum care"
+"SCRIPPS MEMORIAL HOSP, LA JOLLA",0,5,,,,"general labor, delivery, recovery, and post- partum care"
+"SEQUOIA HOSP, REDWOOD CITY",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+SETON MED CTR,0,5,,,,"general labor, delivery, recovery, and post- partum care"
+"SETON MED CTR-COASTSIDE, MOSS BEACH",,,,,,"general labor, delivery, recovery, and post- partum care"
+"SETON MED CTR, DALY CITY",,,,,,"general labor, delivery, recovery, and post- partum care"
+SHARP CHULA VISTA MED CTR,0,3,,,,"general labor, delivery, recovery, and post- partum care"
+"SHARP MARY BIRCH FOR WOMEN & NEWBORNS, SAN DIEGO",0,616,0.00,0.00,4.86,"general labor, delivery, recovery, and post- partum care"
+"SIERRA VIEW DISTRICT HOSP, PORTERVILLE",0,6,,,,"general labor, delivery, recovery, and post- partum care"
+"SIERRA VISTA REGIONAL MED CTR, SAN LUIS OBISPO",0,8,,,,"general labor, delivery, recovery, and post- partum care"
+SIMI VALLEY HOSP & HEALTH CARE SERVICES,0,20,,,,"general labor, delivery, recovery, and post- partum care"
+SONORA REGIONAL MED CTR,0,1,,,,"general labor, delivery, recovery, and post- partum care"
+SONORA REGIONAL MED CTR CAMPUS #1,,,,,,"general labor, delivery, recovery, and post- partum care"
+SONORA REGIONAL MED CTR CAMPUS #2,,,,,,"general labor, delivery, recovery, and post- partum care"
+"ST HELENA HOSP, CLEARLAKE",0,8,,,,"general labor, delivery, recovery, and post- partum care"
+"ST HELENA HOSP, ST HELENA",0,2,,,,"general labor, delivery, recovery, and post- partum care"
+"ST JOHN'S REGIONAL MED CTR, OXNARD",0,6,,,,"general labor, delivery, recovery, and post- partum care"
+"ST JOSEPH HOSP, ORANGE",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+SUTTER EAST BAY HOSPS CTR,0,68,0,0.00,44.05,"general labor, delivery, recovery, and post- partum care"
+"ALTA BATES SUMMIT MED CTR, ALTA BATES CAMPUS, BERKELEY",,,,,,"general labor, delivery, recovery, and post- partum care"
+"ALTA BATES SUMMIT MED CTR, HERRICK CAMPUS, BERKELEY",,,,,,"general labor, delivery, recovery, and post- partum care"
+SUTTER HEALTH SACRAMENTO SIERRA REGION,0,1,,,,"general labor, delivery, recovery, and post- partum care"
+"SUTTER GENERAL HOSP, SACRAMENTO",,,,,,"general labor, delivery, recovery, and post- partum care"
+"SUTTER MEMORIAL HOSP, SACRAMENTO",,,,,,"general labor, delivery, recovery, and post- partum care"
+SUTTER MED CTR OF SANTA ROSA,0,3,,,,"general labor, delivery, recovery, and post- partum care"
+SUTTER ROSEVILLE MED CTR,0,14,,,,"general labor, delivery, recovery, and post- partum care"
+"TORRANCE MEMORIAL MED CTR, TORRANCE",0,2,,,,"general labor, delivery, recovery, and post- partum care"
+"TRI-CITY MED CTR, OCEANSIDE",0,30,,,,"general labor, delivery, recovery, and post- partum care"
+TULARE REGIONAL MEDICAL CTR,0,6,,,,"general labor, delivery, recovery, and post- partum care"
+"UHS-CORONA, INC.",0,36,,,,"general labor, delivery, recovery, and post- partum care"
+"CORONA REGIONAL MED CTR, CAMPUS #1",,,,,,"general labor, delivery, recovery, and post- partum care"
+"CORONA REGIONAL MED CTR, CAMPUS #2",,,,,,"general labor, delivery, recovery, and post- partum care"
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",0,352,0,0.00,8.51,"general labor, delivery, recovery, and post- partum care"
+"UNIVERSITY OF CALIFORNIA IRVINE MED CTR, ORANGE",1,64,15.63,0.40,87.06,"general labor, delivery, recovery, and post- partum care"
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",0,47,,,,"general labor, delivery, recovery, and post- partum care"
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO MED CTR",,,,,,"general labor, delivery, recovery, and post- partum care"
+"UCSD-LA JOLLA, JOHN M.& SALLY B. THORNTON HOSP",,,,,,"general labor, delivery, recovery, and post- partum care"
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",1,122,8.2,0.21,45.67,"general labor, delivery, recovery, and post- partum care"
+"UCSF MED CTR, SAN FRANCISCO",,,,,,"general labor, delivery, recovery, and post- partum care"
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,"general labor, delivery, recovery, and post- partum care"
+"VALLEY PRESBYTERIAN HOSP, VAN NUYS",0,109,0,0.00,27.48,"general labor, delivery, recovery, and post- partum care"
+"VERDUGO HILLS HOSP, GLENDALE",0,1,,,,"general labor, delivery, recovery, and post- partum care"
+"WASHINGTON HOSP, FREMONT",0,5,,,,"general labor, delivery, recovery, and post- partum care"
+"WHITE MEMORIAL MED CTR, LOS ANGELES",0,2,,,,"general labor, delivery, recovery, and post- partum care"
+STATE OF CALIFORNIA POOLED DATA,2,1391,1.44,,,general adult behavioral health/psychiatric care
+"CEDARS-SINAI MED CTR, LOS ANGELES",0,5,,,,general adult behavioral health/psychiatric care
+COLLEGE HOSP COSTA MESA,0,91,0.00,0.00,32.92,general adult behavioral health/psychiatric care
+"ENCINO HOSP MED CTR, ENCINO",0,17,,,,general adult behavioral health/psychiatric care
+GLENDALE ADVENTIST MED CTR,0,20,,,,general adult behavioral health/psychiatric care
+"GROSSMONT HOSP, LA MESA",0,61,0.00,0.00,49.11,general adult behavioral health/psychiatric care
+HUNTINGTON BEACH HOSP,0,4,,,,general adult behavioral health/psychiatric care
+"HUNTINGTON MEMORIAL HOSP, PASADENA",0,19,,,,general adult behavioral health/psychiatric care
+"JOHN D KLARICH MEMORIAL HOSP, CSP-CORCORAN",0,13,,,,general adult behavioral health/psychiatric care
+"LAC+USC MED CTR, LOS ANGELES",0,28,,,,general adult behavioral health/psychiatric care
+LOS ALAMITOS MED CTR,1,214,4.67,0.12,26.04,general adult behavioral health/psychiatric care
+LOS ANGELES METROPOLITAN MED CTR,0,279,0.00,0.00,10.74,general adult behavioral health/psychiatric care
+SANTA BARBARA COTTAGE HOSPITAL,0,1,,,,general adult behavioral health/psychiatric care
+SANTA BARBARA COTTAGE HOSP,,,,,,general adult behavioral health/psychiatric care
+REHABILITATION INSTITUTE AT SANTA BARBARA,,,,,,general adult behavioral health/psychiatric care
+"STANFORD HOSP, STANFORD",0,274,0.00,0.00,10.93,general adult behavioral health/psychiatric care
+"UNIVERSITY OF CALIFORNIA IRVINE MED CTR, ORANGE",1,167,5.99,0.15,33.36,general adult behavioral health/psychiatric care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",0,58,0.00,0.00,51.65,general adult behavioral health/psychiatric care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO MED CTR",,,,,,general adult behavioral health/psychiatric care
+"UCSD-LA JOLLA, JOHN M.& SALLY B. THORNTON HOSP",,,,,,general adult behavioral health/psychiatric care
+"VERDUGO HILLS HOSP, GLENDALE",0,2,,,,general adult behavioral health/psychiatric care
+"WEST ANAHEIM MED CTR, ANAHEIM",0,133,0.0,0.00,22.52,general adult behavioral health/psychiatric care
+WESTERN MED CTR ANAHEIM,0,5,,,,general adult behavioral health/psychiatric care
+STATE OF CALIFORNIA POOLED DATA,12,6093,1.97,,,
+"ALVARADO HOSP, LLC",0,318,0.00,0.00,9.42,
+"ALVARADO HOSP MED CTR, CAMPUS #1, SAN DIEGO",,,,,,
+"ALVARADO HOSP MED CTR, CAMPUS #2, SAN DIEGO",,,,,,
+DELANO REGIONAL MED CTR,1,417,2.40,0.06,13.36,
+DIGNITY HEALTH,3,1817,1.65,0.34,4.83,
+"MERCY HOSP, BAKERSFIELD",,,,,,
+"MERCY SOUTHWEST HOSP, BAKERSFIELD",,,,,,
+"DOCTORS MED CTR, SAN PABLO",1,25,,,,
+"LAC+USC MED CTR, LOS ANGELES",2,681,2.94,0.36,10.61,
+"RIVERSIDE COUNTY REGIONAL MED CTR, MORENO VALLEY",0,462,0.00,0.00,6.48,
+"SAN JOAQUIN COMMUNITY HOSP, BAKERSFIELD",3,951,3.15,0.65,9.22,
+"TRI-CITY MED CTR, OCEANSIDE",1,894,1.12,0.03,6.23,
+"TWIN CITIES COMMUNITY HOSP, TEMPLETON",0,243,0.00,0.00,12.33,
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",1,135,7.41,0.19,41.27,
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO MED CTR",,,,,,
+"UCSD-LA JOLLA, JOHN M.& SALLY B. THORNTON HOSP",,,,,,
+WESTERN MED CTR ANAHEIM,0,150,0.00,0.00,19.97,
+STATE OF CALIFORNIA POOLED DATA,73,89275,0.82,,,general pediatric care
+"ARROWHEAD RGN MED CTR, COLTON",0,33,,,,general pediatric care
+BAKERSFIELD MEMORIAL HOSP,0,137,0.00,0.00,21.87,general pediatric care
+"CEDARS-SINAI MED CTR, LOS ANGELES",0,466,0.00,0.00,6.43,general pediatric care
+CHILDRENS HOSP AND RESEARCH CTR AT OAKLAND,4,6103,0.66,0.18,1.68,general pediatric care
+"CHILDREN'S HOSP AT MISSION, MISSION VIEJO",1,235,4.26,0.11,23.71,general pediatric care
+"CHILDREN'S HOSP CENTRAL CA, MADERA",11,10107,1.09,0.54,1.95,general pediatric care
+CHILDRENS HOSP OF LOS ANGELES,11,16653,0.66,0.33,1.18,general pediatric care
+"CHILDREN'S HOSP OF ORANGE COUNTY, ORANGE",2,3803,0.53,0.06,1.90,general pediatric care
+"COMMUNITY REGIONAL MED CTR, FRESNO",0,99,0.00,0.00,30.26,general pediatric care
+"CONTRA COSTA REGIONAL MED CTR, MARTINEZ",0,4,,,,general pediatric care
+COUNTY OF VENTURA,0,167,0.00,0.00,17.94,general pediatric care
+VENTURA COUNTY MED CTR,,,,,,general pediatric care
+"VENTURA COUNTY MED CTR, SANTA PAULA HOSP",,,,,,general pediatric care
+DIGNITY HEALTH,0,74,0.00,0.00,40.48,general pediatric care
+"MERCY HOSP, BAKERSFIELD",,,,,,general pediatric care
+"MERCY SOUTHWEST HOSP, BAKERSFIELD",,,,,,general pediatric care
+"DOCTORS MED CTR, MODESTO",0,11,,,,general pediatric care
+"EARL & LORAINE MILLER CHILDREN'S HOSP, LONG BEACH",2,2947,0.68,0.08,2.45,general pediatric care
+"EMANUEL MED CTR INC, TURLOCK",0,5,,,,general pediatric care
+FOUNTAIN VALLEY REGIONAL HOSP & MED CTR,0,113,0.00,0.00,26.51,general pediatric care
+FOUNTAIN VALLEY REGIONAL HOSP & MED CTR,,,,,,general pediatric care
+"GARFIELD MED CTR, MONTEREY PARK",0,21,,,,general pediatric care
+"GOOD SAMARITAN HOSP, LP",0,159,0.00,0.00,18.84,general pediatric care
+"MISSION OAKS HOSP, LOS GATOS",,,,,,general pediatric care
+"GOOD SAMARITAN HOSP, SAN JOSE",,,,,,general pediatric care
+"HEALTHBRIDGE CHILDREN'S HOSP, ORANGE",0,75,0.00,0.00,39.94,general pediatric care
+"JOHN MUIR MED CTR, WALNUT CREEK",0,116,0.00,0.00,25.83,general pediatric care
+"KAISER FOUNDATION HOSP-DOWNEY, BELLFLOWER",0,65,0.00,0.00,46.09,general pediatric care
+"KAISER FOUNDATION HOSP, LOS ANGELES",3,2862,1.05,0.22,3.06,general pediatric care
+"KAISER FOUNDATION HOSP, ROSEVILLE",2,1369,1.46,0.18,5.28,general pediatric care
+"KAISER FOUNDATION HOSP, SAN DIEGO",0,797,0.00,0.00,3.76,general pediatric care
+"KAISER FOUNDATION HOSP, SAN FRANCISCO",0,112,0.00,0.00,26.75,general pediatric care
+KAISER FOUNDATION HOSP-SANTA CLARA,0,996,0.00,0.00,3.01,general pediatric care
+"KAISER FOUNDATION HOSP, SANTA ROSA",0,4,,,,general pediatric care
+KAISER FOUNDATION HOSP-WALNUT CREEK,0,15,,,,general pediatric care
+KAISER FOUNDATION HOSPS,0,371,0.00,0.00,8.07,general pediatric care
+KAISER FOUNDATION HOSP-ANAHEIM MEDICAL CENTER,,,,,,general pediatric care
+KAISER FOUNDATION HOSP-LAKEVIEW MEDICAL CENTER,,,,,,general pediatric care
+KAISER FOUNDATION HOSPS,,,,,,general pediatric care
+"KAISER FOUNDATION HOSP, FONTANA",0,126,0.00,0.00,23.78,general pediatric care
+KAISER FOUNDATION HOSPS,0,21,,,,general pediatric care
+"KAISER FOUNDATION HOSP, FREMONT",,,,,,general pediatric care
+"KAISER FOUNDATION HOSP, HAYWARD/FREMONT",,,,,,general pediatric care
+KAISER FOUNDATION HOSPS,2,1962,1.02,0.12,3.68,general pediatric care
+"KAISER FOUNDATION HOSP, OAKLAND/RICHMOND",,,,,,general pediatric care
+"KAISER FOUNDATION HOSP, RICHMOND CAMPUS",,,,,,general pediatric care
+"KAWEAH DELTA MED CTR, VISALIA",0,3,,,,general pediatric care
+"KERN MED CTR, BAKERSFIELD",0,29,,,,general pediatric care
+"LAC+USC MED CTR, LOS ANGELES",1,366,2.73,0.07,15.22,general pediatric care
+"LODI MEMORIAL HOSP ASSOCIATION, INC.",0,1,,,,general pediatric care
+LODI MEMORIAL HOSP 1RH,,,,,,general pediatric care
+LODI MEMORIAL HOSP-WEST,,,,,,general pediatric care
+LOMA LINDA UNIVERSITY MED CTR,9,7303,1.23,0.56,2.34,general pediatric care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,general pediatric care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,general pediatric care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,general pediatric care
+"LOS ANGELES CO OLIVE VIEW-UCLA MED CTR, SYLMAR",0,17,,,,general pediatric care
+LOS ROBLES REGIONAL MED CTR,0,13,,,,general pediatric care
+"LOS ROBLES HOSP & MED CTR, E , THOUSAND OAKS",,,,,,general pediatric care
+"LOS ROBLES HOSP & MED CTR, THOUSAND OAKS",,,,,,general pediatric care
+THOUSAND OAKS SURGICAL HOSPITAL,,,,,,general pediatric care
+"LUCILE SALTER PACKARD CHILDREN'S HOSP AT STANFORD, PALO ALTO",5,8664,0.58,0.19,1.35,general pediatric care
+MARIAN REGIONAL MEDICAL CENTER,,,,,,general pediatric care
+MARIAN REGIONAL MEDICAL CENTER,0,65,0.00,0.00,46.09,general pediatric care
+"MEMORIAL MED CTR, MODESTO",0,467,0.00,0.00,6.41,general pediatric care
+MERCY MED CTR REDDING,0,36,,,,general pediatric care
+"MERCY SAN JUAN MED CTR, CARMICHAEL",0,88,0.00,0.00,34.04,general pediatric care
+NORTHRIDGE HOSP MED CTR,0,213,0.00,0.00,14.06,general pediatric care
+"O'CONNOR HOSP, SAN JOSE",0,2,,,,general pediatric care
+"PARKVIEW COMMUNITY HOSP MED CTR, RIVERSIDE",0,21,,,,general pediatric care
+"POMONA VALLEY HOSP MED CTR, POMONA",0,27,,,,general pediatric care
+"PROVIDENCE HOLY CROSS MED CTR, MISSION HILLS",0,2,,,,general pediatric care
+"PROVIDENCE TARZANA MED CTR, TARZANA",0,87,0.00,0.00,34.43,general pediatric care
+"RADY CHILDREN'S HOSP, SAN DIEGO",2,5291,0.38,0.05,1.37,general pediatric care
+REGIONAL MED CTR OF SAN JOSE,0,4,,,,general pediatric care
+RIVERSIDE COMMUNITY HOSP,0,5,,,,general pediatric care
+"RIVERSIDE COUNTY REGIONAL MED CTR, MORENO VALLEY",0,247,0.00,0.00,12.13,general pediatric care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",7,4779,1.46,0.59,3.02,general pediatric care
+SALINAS VALLEY MEMORIAL HOSP,0,39,,,,general pediatric care
+"SAN ANTONIO COMMUNITY HOSP, UPLAND",0,6,,,,general pediatric care
+SANTA BARBARA COTTAGE HOSPITAL,1,968,1.03,0.03,5.76,general pediatric care
+SANTA BARBARA COTTAGE HOSP,,,,,,general pediatric care
+REHABILITATION INSTITUTE AT SANTA BARBARA,,,,,,general pediatric care
+"SANTA MONICA, UCLA MED CTR AND ORTHOPAEDIC",0,1044,0.00,0.00,2.87,general pediatric care
+SANTA ROSA MEMORIAL HOSP,0,82,0.00,0.00,36.53,general pediatric care
+"SHRINERS HOSPS FOR CHILDREN NORTH CA, SACRAMENTO",0,144,0.00,0.00,20.80,general pediatric care
+"SIERRA VISTA REGIONAL MED CTR, SAN LUIS OBISPO",0,9,,,,general pediatric care
+SUTTER HEALTH SACRAMENTO SIERRA REGION,0,1632,0.00,0.00,1.84,general pediatric care
+"SUTTER GENERAL HOSP, SACRAMENTO",,,,,,general pediatric care
+"SUTTER MEMORIAL HOSP, SACRAMENTO",,,,,,general pediatric care
+SUTTER ROSEVILLE MED CTR,0,3,,,,general pediatric care
+SUTTER WEST BAY HOSPS,2,1030,1.94,0.24,7.01,general pediatric care
+"CALIFORNIA PACIFIC MED CTR, CA WEST CAM HOSP, S F",,,,,,general pediatric care
+"CALIFORNIA PACIFIC MED CTR, PACIFIC CAM HOSP, S F",,,,,,general pediatric care
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",2,2476,0.8,0.10,2.92,general pediatric care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",0,5,,,,general pediatric care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO MED CTR",,,,,,general pediatric care
+"UCSD-LA JOLLA, JOHN M.& SALLY B. THORNTON HOSP",,,,,,general pediatric care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",6,3944,1.5,0.56,3.31,general pediatric care
+"UCSF MED CTR, SAN FRANCISCO",,,,,,general pediatric care
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,general pediatric care
+"VALLEY PRESBYTERIAN HOSP, VAN NUYS",0,82,0.0,0.00,36.53,general pediatric care
+"WHITE MEMORIAL MED CTR, LOS ANGELES",0,53,0.0,0.00,56.52,general pediatric care
+STATE OF CALIFORNIA POOLED DATA,4,3298,1.21,,,general pediatric rehabilitation care
+"CHILDREN'S HOSP CENTRAL CA, MADERA",4,1883,2.12,0.58,5.44,general pediatric rehabilitation care
+CHILDRENS HOSP OF LOS ANGELES,0,1415,0.00,0.00,2.12,general pediatric rehabilitation care
+STATE OF CALIFORNIA POOLED DATA,39,23100,1.69,,,bone marrow transplant care
+"CITY OF HOPE HELFORD CLINICAL RESEARCH HOSP, DUARTE",18,9490,1.90,1.12,3.00,bone marrow transplant care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",2,1888,1.06,0.13,3.83,bone marrow transplant care
+"SCRIPPS GREEN HOSP, LA JOLLA",0,70,0.00,0.00,42.80,bone marrow transplant care
+"STANFORD HOSP, STANFORD",2,3094,0.65,0.08,2.34,bone marrow transplant care
+SUTTER HEALTH SACRAMENTO SIERRA REGION,2,2958,0.68,0.08,2.44,bone marrow transplant care
+"SUTTER GENERAL HOSP, SACRAMENTO",,,,,,bone marrow transplant care
+"SUTTER MEMORIAL HOSP, SACRAMENTO",,,,,,bone marrow transplant care
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",11,4475,2.46,1.23,4.40,bone marrow transplant care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",4,1125,3.56,0.97,9.10,bone marrow transplant care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO MED CTR",,,,,,bone marrow transplant care
+"UCSD-LA JOLLA, JOHN M.& SALLY B. THORNTON HOSP",,,,,,bone marrow transplant care
+STATE OF CALIFORNIA POOLED DATA,10,7542,1.33,,,pediatric bone marrow transplant care
+CHILDRENS HOSP AND RESEARCH CTR AT OAKLAND,0,1229,0.00,0.00,2.44,pediatric bone marrow transplant care
+CHILDRENS HOSP OF LOS ANGELES,5,3054,1.64,0.53,3.82,pediatric bone marrow transplant care
+"CHILDREN'S HOSP OF ORANGE COUNTY, ORANGE",5,2263,2.21,0.72,5.16,pediatric bone marrow transplant care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",0,996,0.00,0.00,3.01,pediatric bone marrow transplant care
+STATE OF CALIFORNIA POOLED DATA,41,38262,1.07,,,adult oncology care
+"ARROWHEAD RGN MED CTR, COLTON",1,463,2.16 0.05,12.03,,adult oncology care
+"CEDARS-SINAI MED CTR, LOS ANGELES",0,597,0.00 0.00,5.02,,adult oncology care
+"CITY OF HOPE HELFORD CLINICAL RESEARCH HOSP, DUARTE",8,5096,1.57 0.68,3.09,,adult oncology care
+"COMMUNITY REGIONAL MED CTR, FRESNO",5,1022,4.89 1.59,11.42,l,adult oncology care
+"GOOD SAMARITAN HOSP, LP",0,1043,0.00 0.00,2.87,,adult oncology care
+"MISSION OAKS HOSP, LOS GATOS",,,,,,adult oncology care
+"GOOD SAMARITAN HOSP, SAN JOSE",,,,,,adult oncology care
+"KECK HOSP OF USC, LOS ANGELES",6,806,7.44 2.73,16.20,l,adult oncology care
+"LAC+USC MED CTR, LOS ANGELES",0,111,0.00 0.00,26.99,,adult oncology care
+LOMA LINDA UNIVERSITY MED CTR,0,862,0.00 0.00,3.48,,adult oncology care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,adult oncology care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,adult oncology care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,adult oncology care
+"LONG BEACH MEMORIAL MED CTR, LONG BEACH",2,2919,0.69,0.08,2.48,adult oncology care
+LOS ROBLES REGIONAL MED CTR,0,1294,0.00,0.00,2.32,adult oncology care
+"LOS ROBLES HOSP & MED CTR, E , THOUSAND OAKS",,,,,,adult oncology care
+"LOS ROBLES HOSP & MED CTR, THOUSAND OAKS",,,,,,adult oncology care
+THOUSAND OAKS SURGICAL HOSPITAL,,,,,,adult oncology care
+MERCY MED CTR REDDING,0,862,0.00,0.00,3.48,adult oncology care
+"ORANGE COAST MEMORIAL MED CTR, FOUNTAIN VALLEY",0,443,0.00,0.00,6.76,adult oncology care
+"PROVIDENCE TARZANA MED CTR, TARZANA",1,1348,0.74,0.02,4.13,adult oncology care
+"SAINT JOHN'S HEALTH CTR, SANTA MONICA",0,942,0.00,0.00,3.18,adult oncology care
+"SAINT VINCENT MED CTR, LOS ANGELES",0,373,0.00,0.00,8.03,adult oncology care
+SANTA BARBARA COTTAGE HOSPITAL,1,959,1.04,0.03,5.81,adult oncology care
+SANTA BARBARA COTTAGE HOSP,,,,,,adult oncology care
+REHABILITATION INSTITUTE AT SANTA BARBARA,,,,,,adult oncology care
+SANTA ROSA MEMORIAL HOSP,0,2081,0.00 0.00,1.44,,adult oncology care
+"SHARP MEMORIAL HOSP, SAN DIEGO",2,3202,0.62 0.08,2.26,,adult oncology care
+ST BERNARDINE MED CTR,0,51,0.00 0.00,58.74,,adult oncology care
+"ST JOSEPH HOSP, ORANGE",1,1367,0.73 0.02,4.08,,adult oncology care
+"STANFORD HOSP, STANFORD",0,2789,0.00 0.00,1.07,,adult oncology care
+SUTTER HEALTH SACRAMENTO SIERRA REGION,4,2430,1.65 0.45,4.21,,adult oncology care
+"SUTTER GENERAL HOSP, SACRAMENTO",,,,,,adult oncology care
+"SUTTER MEMORIAL HOSP, SACRAMENTO",,,,,,adult oncology care
+SUTTER ROSEVILLE MED CTR,0,1434,0.00,0.00,2.09,adult oncology care
+"UNIVERSITY OF CALIFORNIA IRVINE MED CTR, ORANGE",0,913,0,0.00,3.28,adult oncology care
+STATE OF CALIFORNIA POOLED DATA,81,56249,1.44,,,pediatric oncology care
+CHILDRENS HOSP AND RESEARCH CTR AT OAKLAND,2,4304,0.46,0.06,1.68,pediatric oncology care
+"CHILDREN'S HOSP CENTRAL CA, MADERA",21,7181,2.92,1.81,4.47,pediatric oncology care
+CHILDRENS HOSP OF LOS ANGELES,13,6146,2.12,1.13,3.62,pediatric oncology care
+"CHILDREN'S HOSP OF ORANGE COUNTY, ORANGE",1,6613,0.15,0.00,0.84,pediatric oncology care
+"CITY OF HOPE HELFORD CLINICAL RESEARCH HOSP, DUARTE",12,4221,2.84,1.47,4.97,pediatric oncology care
+"EARL & LORAINE MILLER CHILDREN'S HOSP, LONG BEACH",6,3815,1.57,0.58,3.42,pediatric oncology care
+KAISER FOUNDATION HOSPS,,,,,,pediatric oncology care
+"KAISER FOUNDATION HOSP, FONTANA",2,680,2.94 0.36,10.62,,pediatric oncology care
+LOMA LINDA UNIVERSITY MED CTR,7,6209,1.13 0.45,2.32,,pediatric oncology care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,pediatric oncology care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,pediatric oncology care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,pediatric oncology care
+"LUCILE SALTER PACKARD CHILDREN'S HOSP AT STANFORD, PALO ALTO",5,5088,0.98,0.32,2.29,pediatric oncology care
+"RADY CHILDREN'S HOSP, SAN DIEGO",1,6925,0.14,0.00,0.80,pediatric oncology care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",11,5067,2.17,1.08,3.88,pediatric oncology care
+"UCSF MED CTR, SAN FRANCISCO",,,,,,pediatric oncology care
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,pediatric oncology care
+STATE OF CALIFORNIA POOLED DATA,6,3237,1.85,,,adult solid organ transplant care
+"KECK HOSP OF USC, LOS ANGELES",0,17,,,,adult solid organ transplant care
+"LAC/HARBOR-UCLA MED CTR, TORRANCE",0,80,0.00 0.00,37.45,,adult solid organ transplant care
+LOMA LINDA UNIVERSITY MED CTR,0,333,0.00 0.00,9.00,,adult solid organ transplant care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,adult solid organ transplant care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,adult solid organ transplant care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,adult solid organ transplant care
+RIVERSIDE COMMUNITY HOSP,0,10,,,,adult solid organ transplant care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",3,1139,2.63 0.54,7.70,,adult solid organ transplant care
+"SAINT VINCENT MED CTR, LOS ANGELES",0,226,0.00 0.00,13.26,,adult solid organ transplant care
+"SHARP MEMORIAL HOSP, SAN DIEGO",1,449,2.23 0.06,12.41,,adult solid organ transplant care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",2,983,2.03 0.25,7.35,,adult solid organ transplant care
+"UCSF MED CTR, SAN FRANCISCO",,,,,,adult solid organ transplant care
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,adult solid organ transplant care
+STATE OF CALIFORNIA POOLED DATA,92,37299,2.47,,,bone marrow transplant care
+"CITY OF HOPE HELFORD CLINICAL RESEARCH HOSP, DUARTE",32,14915,2.15,1.47,3.03,bone marrow transplant care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",27,5629,4.80,3.16,6.98,bone marrow transplant care
+"SCRIPPS GREEN HOSP, LA JOLLA",0,804,0.00,0.00,3.73,bone marrow transplant care
+"STANFORD HOSP, STANFORD",0,3539,0.00,0.00,0.85,bone marrow transplant care
+SUTTER HEALTH SACRAMENTO SIERRA REGION,2,3863,0.52,0.06,1.87,bone marrow transplant care
+"UNIVERSITY OF CALIFORNIA DAVIS MED CTR, SACRAMENTO",11,3026,3.64,1.81,6.50,bone marrow transplant care
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",20,5523,3.62,2.21,5.59,bone marrow transplant care
+STATE OF CALIFORNIA POOLED DATA,8,3776,2.12,,,pediatric bone marrow transplant care
+CHILDRENS HOSP OF LOS ANGELES,0,1062,0.00,0.00,2.82,pediatric bone marrow transplant care
+"CHILDREN'S HOSP OF ORANGE COUNTY, ORANGE",0,308,0.00,0.00,9.73,pediatric bone marrow transplant care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",8,2406,3.33,1.44,6.55,pediatric bone marrow transplant care
+STATE OF CALIFORNIA POOLED DATA,125,67139,1.86,,,adult oncology care
+"ARROWHEAD RGN MED CTR, COLTON",7,1285,5.45,2.19,11.22,adult oncology care
+"CEDARS-SINAI MED CTR, LOS ANGELES",4,6321,0.63,0.17,1.62,adult oncology care
+"CITY OF HOPE HELFORD CLINICAL RESEARCH HOSP, DUARTE",18,8990,2.00,1.19,3.16,adult oncology care
+"COMMUNITY REGIONAL MED CTR, FRESNO",2,642,3.12,0.38,11.25,adult oncology care
+"GOOD SAMARITAN HOSP, LP",2,639,3.13,0.38,11.31,adult oncology care
+"MISSION OAKS HOSP, LOS GATOS",,,,,,adult oncology care
+"GOOD SAMARITAN HOSP, SAN JOSE",,,,,,adult oncology care
+"KECK HOSP OF USC, LOS ANGELES",16,4889,3.27,1.87,5.31,adult oncology care
+"LAC+USC MED CTR, LOS ANGELES",8,2616,3.06,1.32,6.03,adult oncology care
+LOMA LINDA UNIVERSITY MED CTR,3,1654,1.81,0.37,5.30,adult oncology care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,adult oncology care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,adult oncology care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,adult oncology care
+"LONG BEACH MEMORIAL MED CTR, LONG BEACH",0,2555,0.00,0.00,1.17,adult oncology care
+LOS ROBLES REGIONAL MED CTR,2,1724,1.16,0.14,4.19,adult oncology care
+"LOS ROBLES HOSP & MED CTR, E , THOUSAND OAKS",,,,,,adult oncology care
+"LOS ROBLES HOSP & MED CTR, THOUSAND OAKS",,,,,,adult oncology care
+THOUSAND OAKS SURGICAL HOSPITAL,,,,,,adult oncology care
+MERCY MED CTR REDDING,1,1601,0.62,0.02,3.48,adult oncology care
+"MERCY SAN JUAN MED CTR, CARMICHAEL",3,4148,0.72,0.15,2.11,adult oncology care
+"ORANGE COAST MEMORIAL MED CTR, FOUNTAIN VALLEY",0,463,0.00,0.00,6.47,adult oncology care
+"SAINT JOHN'S HEALTH CTR, SANTA MONICA",3,816,3.68,0.76,10.74,adult oncology care
+"SAINT VINCENT MED CTR, LOS ANGELES",0,593,0.00,0.00,5.05,adult oncology care
+SAN FRANCISCO GENERAL HOSP,0,1212,0.00,0.00,2.47,adult oncology care
+SANTA BARBARA COTTAGE HOSPITAL,2,1613,1.24,0.15,4.48,adult oncology care
+SANTA BARBARA COTTAGE HOSP,,,,,,adult oncology care
+REHABILITATION INSTITUTE AT SANTA BARBARA,,,,,,adult oncology care
+SANTA ROSA MEMORIAL HOSP,0,1600,0.00,0.00,1.87,adult oncology care
+"SHARP MEMORIAL HOSP, SAN DIEGO",3,3064,0.98,0.20,2.86,adult oncology care
+ST BERNARDINE MED CTR,0,627,0.00,0.00,4.78,adult oncology care
+"ST JOSEPH HOSP, ORANGE",3,2234,1.34,0.28,3.92,adult oncology care
+"STANFORD HOSP, STANFORD",6,4931,1.22,0.45,2.65,adult oncology care
+SUTTER HEALTH SACRAMENTO SIERRA REGION,1,390,2.56,0.06,14.29,adult oncology care
+"SUTTER GENERAL HOSP, SACRAMENTO",,,,,,adult oncology care
+"SUTTER MEMORIAL HOSP, SACRAMENTO",,,,,,adult oncology care
+SUTTER ROSEVILLE MED CTR,0,1369,0.00,0.00,2.19,adult oncology care
+"UNIVERSITY OF CALIFORNIA IRVINE MED CTR, ORANGE",1,1729,0.58,0.01,3.22,adult oncology care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",40,9434,4.24,3.03,5.77,adult oncology care
+"UCSF MED CTR, SAN FRANCISCO",,,,,,adult oncology care
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,adult oncology care
+STATE OF CALIFORNIA POOLED DATA,38,16627,2.29,,,pediatric oncology care
+CHILDRENS HOSP AND RESEARCH CTR AT OAKLAND,0,441,0.00 0.00,6.79,,pediatric oncology care
+"CHILDREN'S HOSP CENTRAL CA, MADERA",3,599,5.01 1.03,14.64,,pediatric oncology care
+CHILDRENS HOSP OF LOS ANGELES,9,4969,1.81 0.83,3.44,,pediatric oncology care
+"CHILDREN'S HOSP OF ORANGE COUNTY, ORANGE",2,906,2.21 0.27,7.97,,pediatric oncology care
+"CITY OF HOPE HELFORD CLINICAL RESEARCH HOSP, DUARTE",3,1178,2.55 0.53,7.44,,pediatric oncology care
+"EARL & LORAINE MILLER CHILDREN'S HOSP, LONG BEACH",1,738,1.36 0.03,7.55,,pediatric oncology care
+"KAISER FOUNDATION HOSP, FONTANA",0,314,0.00,0.00,9.54,pediatric oncology care
+LOMA LINDA UNIVERSITY MED CTR,4,2824,1.42,0.39,3.63,pediatric oncology care
+"LUCILE SALTER PACKARD CHILDREN'S HOSP AT STANFORD, PALO ALTO",4,2037,1.96 0.54,5.03,,pediatric oncology care
+"RADY CHILDREN'S HOSP, SAN DIEGO",0,960,0.00 0.00,3.12,,pediatric oncology care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",12,1661,7.2 3.73,12.62,,pediatric oncology care
+STATE OF CALIFORNIA POOLED DATA,16,14671,1.09,,,adult solid organ transplant care
+"KECK HOSP OF USC, LOS ANGELES",5,2698,1.85 0.60,4.32,,adult solid organ transplant care
+"LAC/HARBOR-UCLA MED CTR, TORRANCE",0,235,0.00 0.00,12.75,,adult solid organ transplant care
+LOMA LINDA UNIVERSITY MED CTR,1,1369,0.73 0.02,4.07,,adult solid organ transplant care
+"LOMA LINDA UNIV HEART & SURGICAL HOSP, REDLANDS",,,,,,adult solid organ transplant care
+"LOMA LINDA UNIV MED CTR EAST HOSP, LOMA LINDA",,,,,,adult solid organ transplant care
+"LOMA LINDA UNIV MED CTR, LOMA LINDA",,,,,,adult solid organ transplant care
+RIVERSIDE COMMUNITY HOSP,3,2223,1.35,0.28,3.94,adult solid organ transplant care
+"RONALD REAGAN UCLA MED CTR, LOS ANGELES",5,3635,1.38,0.45,3.21,adult solid organ transplant care
+"SAINT VINCENT MED CTR, LOS ANGELES",1,393,2.54,0.06,14.18,adult solid organ transplant care
+"SHARP MEMORIAL HOSP, SAN DIEGO",1,2078,0.48,0.01,2.68,adult solid organ transplant care
+"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",0,2040,0.00,0.00,1.47,adult solid organ transplant care
+"UCSF MED CTR, SAN FRANCISCO",,,,,,adult solid organ transplant care
+"UCSF MED CTR AT MOUNT ZION, SAN FRANCISCO",,,,,,adult solid organ transplant care

@@ -39,8 +39,8 @@ def clabsi(files):
     data.replace(to_replace='-------', value='', inplace=True)
     data.drop_duplicates(inplace=True)
     del data['extra']
-    #data[data.duplicated()]
     data.to_csv('clabsi2012.csv', index=False)
+
 
 if __name__ == "__main__":
     filenames = glob.glob('*.txt')
